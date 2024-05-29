@@ -1,0 +1,18 @@
+[$Version]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0_pre,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0,kcminputrc_repeat.upd:kcminputrc_migrate_key_repeat
+
+[Libinput][1118][2045][Microsoft Microsoft Nano Transceiver 1.1 Consumer Control]
+NaturalScroll=false
+
+[Libinput][1739][52856][MSFT0001:01 06CB:CE78 Touchpad]
+TapToClick=true
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+XLbInptAccelProfileFlat=false
+XLbInptPointerAcceleration=0.2
+cursorSize=32
+cursorTheme=Breeze_Dark_Teal
+
+[Tmp]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize

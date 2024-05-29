@@ -1,0 +1,43 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[General]
+ConfigVersion=1
+
+[KFileDialog Settings]
+Recent Files[$e]=9_nasaspacescapes_0010_11.jpg,file:$HOME/Pictures/Uzay/9_nasaspacescapes_0010_11.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Uzay/
+detailViewIconSize=16
+iconViewIconSize=64
+
+[KonsoleWindow]
+ShowWindowTitleOnTitleBar=true
+
+[MainWindow]
+1920x1080 screen: Height=1006
+1920x1080 screen: Width=953
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=9
+1920x1080 screen: YPosition=41
+2 screens: Height=501
+2 screens: Width=953
+2 screens: Window-Maximized=true
+2 screens: XPosition=504
+2 screens: YPosition=60
+HDMI-1 eDP-1=eDP-1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAXwBAAAD+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABFQEAAAMAAAO5AAADwAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAATv/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Notification Messages]
+CloseAllTabs=false
+
+[SplitView]
+SplitViewVisibility=AlwaysShowSplitHeader
+
+[TabBar]
+NewTabBehavior=PutNewTabAfterCurrentTab
+
+[UiSettings]
+ColorScheme=

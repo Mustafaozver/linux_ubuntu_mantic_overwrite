@@ -1,0 +1,25 @@
+[Desktop Entry]
+Name=RichTextViewer
+Name[en_GB]=RichTextViewer
+Comment=Displays RichText loaded from defined source.
+Comment[en_GB]=Displays RichText loaded from defined source.
+
+Icon=view-refresh
+Type=Service
+ServiceTypes=Plasma/Applet
+
+X-KDE-PluginInfo-Author=Nas
+X-KDE-PluginInfo-Email=9460355@gmail.com
+X-KDE-PluginInfo-Version=1.1
+X-KDE-PluginInfo-Website=https://github.com/nascorp/plasma-applet-richtextviewer
+X-KDE-PluginInfo-Category=Utilities
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-Name=org.kde.plasma.richtextviewer
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-Requires-FileDialog=Unused
+X-Plasma-Requires-LaunchApp=Unused
+X-Plasma-DefaultSize=200,50

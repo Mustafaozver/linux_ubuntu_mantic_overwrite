@@ -1,0 +1,117 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Customizable Power Menu for KDE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 23-11-21\n"
+"PO-Revision-Date: 23-11-21\n"
+"Last-Translator: Dervart\n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../contents/config/config.qml
+msgid "Advanced"
+msgstr "Настройки"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Main Icon :"
+msgstr "Иконка виджета"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Widget Size px: W: "
+msgstr "Размер виджета px: W: "
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 1"
+msgstr "Показать пункт меню 1"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 2"
+msgstr "Показать пункт меню 2"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 3"
+msgstr "Показать пункт меню 3"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 4"
+msgstr "Показать пункт меню 4"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 5"
+msgstr "Показать пункт меню 5"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 6"
+msgstr "Показать пункт меню 6"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 7"
+msgstr "Показать пункт меню 7"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 8"
+msgstr "Показать пункт меню 8"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 9"
+msgstr "Показать пункт меню 9"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Menu Item 10"
+msgstr "Показать пункт меню 10"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Show Bottom Separator"
+msgstr "Показать нижний разделитель"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Icon :"
+msgstr "Иконка :"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Item :"
+msgstr "Строка :"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Command :"
+msgstr "Выполнить :"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "System Settings"
+msgstr "Настройки системы"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Discover"
+msgstr "Магазин приложений"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Lock Screen"
+msgstr "Заблокировать"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Log Out"
+msgstr "Выйти"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Sleep"
+msgstr "Сон"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Restart"
+msgstr "Перезагрузка"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Shut Down"
+msgstr "Выключение"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Custom Item"
+msgstr "Настраиваемая строка"
+
+#: ../contents/ui/config/configGeneral.qml
+msgid "Custom Command"
+msgstr "Настраиваемая команда"

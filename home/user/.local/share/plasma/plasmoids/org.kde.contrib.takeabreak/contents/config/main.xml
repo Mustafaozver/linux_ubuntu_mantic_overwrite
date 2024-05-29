@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+    <kcfgfile name=""/>
+
+    <group name="General">
+        <entry name="work_time" type="Int">
+            <default>55</default>
+        </entry>
+        <entry name="break_time" type="Int">
+            <default>5</default>
+        </entry>
+        <entry name="min_idle" type="Int">
+            <default>240</default>
+        </entry>
+        <entry name="hide_and_show_mode" type="Bool">
+            <default>False</default>
+        </entry>
+        <entry name="hs_show_on_mouse_over" type="Bool">
+            <default>True</default>
+        </entry>
+        <entry name="show_m" type="Bool">
+            <default>True</default>
+        </entry>
+        <entry name="auto_position_m" type="Bool">
+            <default>True</default>
+        </entry>
+    </group>
+    
+</kcfg>

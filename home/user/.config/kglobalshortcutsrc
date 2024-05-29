@@ -1,0 +1,366 @@
+[$Version]
+update_info=bismuth_shortcuts_category.upd:bismuth-shortcuts-category,bismuth_shortcuts_from_kwin.upd:bismuth-shortcuts-from-kwin
+
+[ActivityManager]
+_k_friendly_name=Plasma
+switch-to-activity-40a9032d-60f5-44ef-8703-1261a63f6efd=,none,"1" etkinliğine geç
+switch-to-activity-77334b0f-5e98-4682-999b-fd5a96c8e40d=none,none,"0" etkinliğine geç
+
+[KDE Keyboard Layout Switcher]
+Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Sonraki Klavye Düzenine Geç
+_k_friendly_name=Klavye Düzeni Değiştirici
+
+[bismuth]
+_k_friendly_name=Window Tiling
+decrease_master_size=none,,Decrease Master Area Size
+decrease_master_win_count=none,Meta+[,Decrease Master Area Window Count
+decrease_window_height=none,Meta+Ctrl+K,Decrease Window Height
+decrease_window_width=none,Meta+Ctrl+H,Decrease Window Width
+focus_bottom_window=none,Meta+J,Focus Bottom Window
+focus_left_window=none,Meta+H,Focus Left Window
+focus_next_window=none,,Focus Next Window
+focus_prev_window=none,,Focus Previous Window
+focus_right_window=none,Meta+L,Focus Right Window
+focus_upper_window=none,Meta+K,Focus Upper Window
+increase_master_size=none,,Increase Master Area Size
+increase_master_win_count=none,Meta+],Increase Master Area Window Count
+increase_window_height=none,Meta+Ctrl+J,Increase Window Height
+increase_window_width=none,Meta+Ctrl+L,Increase Window Width
+move_window_to_bottom_pos=none,Meta+Shift+J,Move Window Down
+move_window_to_left_pos=none,Meta+Shift+H,Move Window Left
+move_window_to_next_pos=none,,Move Window to the Next Position
+move_window_to_prev_pos=none,,Move Window to the Previous Position
+move_window_to_right_pos=none,Meta+Shift+L,Move Window Right
+move_window_to_upper_pos=none,Meta+Shift+K,Move Window Up
+next_layout=none,Meta+\\\\,Switch to the Next Layout
+prev_layout=none,Meta+|,Switch to the Previous Layout
+push_window_to_master=none,Meta+Return,Push Active Window to Master Area
+rotate=none,Meta+R,Rotate
+rotate_part=none,Meta+Shift+R,Rotate Part
+rotate_reverse=none,,Rotate (Reverse)
+toggle_float_layout=none,Meta+Shift+F,Toggle Floating Layout
+toggle_monocle_layout=none,Meta+M,Toggle Monocle Layout
+toggle_quarter_layout=none,,Toggle Quarter Layout
+toggle_spiral_layout=none,,Toggle Spiral Layout
+toggle_spread_layout=none,,Toggle Spread Layout
+toggle_stair_layout=none,,Toggle Stair Layout
+toggle_three_column_layout=none,,Toggle Three Column Layout
+toggle_tile_layout=none,Meta+T,Toggle Tile Layout
+toggle_window_floating=none,Meta+F,Toggle Active Window Floating
+
+[kaccess]
+Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Ekran Okuyucuyu Aç veya Kapat
+_k_friendly_name=Erişebilirlik
+
+[kalarm]
+_k_friendly_name=K Alarm
+newAudio=none,none,Yeni Ses Alarmı
+newCommand=none,none,Yeni Komut Alarmı
+newDisplay=none,none,Yeni Ekran Alarmı
+newEmail=none,none,Yeni E-posta Alarmı
+spread=none,none,Pencereleri Ayır
+stopAudio=none,none,Çalmayı Durdur
+
+[kcm_touchpad]
+Disable Touchpad=Touchpad Off,Touchpad Off,Dokunmatik Yüzeyi Devre Dışı Bırak
+Enable Touchpad=Touchpad On,Touchpad On,Dokunmatik Yüzeyi Etkinleştir
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle\tMeta+Ctrl+Zenkaku Hankaku,Dokunmatik Yüzeyi Aç/Kapat
+_k_friendly_name=Dokunmatik Yüzey
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Sistem Etkinliğini Göster
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,Ekranı Değiştir
+
+[khotkeys]
+_k_friendly_name=Özel Kısayollar Hizmeti
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Ara
+
+[kmix]
+_k_friendly_name=Ses Düzeyi
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Mikrofon Sesini Azalt
+decrease_volume=Volume Down,Volume Down,Sesi Azalt
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Mikrofon Sesini Artır
+increase_volume=Volume Up,Volume Up,Sesi Artır
+mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Mikrofonu Kapat
+mute=Volume Mute,Volume Mute,Sessize Al
+
+[ksmserver]
+Halt Without Confirmation=none,,Onaylama Olmaksızın Kapat
+Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Oturumu Kilitle
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Çık
+Log Out Without Confirmation=none,,Onay Olmadan Çık
+Reboot Without Confirmation=none,,Onay Olmadan Yeniden Başlat
+_k_friendly_name=Oturum Yönetimi
+
+[kwin]
+Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Pencere Etkinleştirme Denemesi
+Decrease Opacity=,,Etkin Pencerenin Matlığını %​5 Azalt
+Edit Tiles=Meta+T,Meta+T,Döşeme Düzenleyiciyi Aç/Kapat
+Expose=Ctrl+F9,Ctrl+F9,Açık Pencereleri Göster (Geçerli Masaüstü)
+ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Açık Pencereleri Göster (Tüm Masaüstleri)
+ExposeClass=Ctrl+F7,Ctrl+F7,Açık Pencereleri Göster (Pencere sınıfı)
+ExposeClassCurrentDesktop=none,none,Açık Pencereleri Göster (Geçerli masaüstündeki pencere sınıfı)
+Increase Opacity=,,Etkin Pencerenin Matlığını %​5 Artır
+Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,Pencereyi Öldür
+Move Tablet to Next Output=none,none,Tableti\\, sonraki çıktıya taşı
+MoveMouseToCenter=Meta+F6,Meta+F6,İmleci Merkeze Taşı
+MoveMouseToFocus=Meta+F5,Meta+F5,İmleci Odağa Taşı
+MoveZoomDown=none,none,Yakınlaşan Alanı Aşağı Taşı
+MoveZoomLeft=none,none,Yakınlaşan Alanı Sola Taşı
+MoveZoomRight=none,none,Yakınlaşan Alanı Sağa Taşı
+MoveZoomUp=none,none,Yakınlaşan Alanı Yukarı Taşı
+Overview=Meta+W,Meta+W,Genel Görünümü Aç/Kapat
+Setup Window Shortcut=,,Pencere Kısayolunu Ayarla
+Show Desktop=Meta+D,Meta+D,Masaüstüne Bak
+ShowDesktopGrid=Meta+F8,Meta+F8,Masaüstü Izgarasını Göster
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Bileşikliği Askıya Al
+Switch One Desktop Down=,Meta+Ctrl+Down,Bir Alt Masaüstüne Geç
+Switch One Desktop Up=,Meta+Ctrl+Up,Bir Üst Masaüstüne Geç
+Switch One Desktop to the Left=,Meta+Ctrl+Left,Bir Sol Masaüstüne Geç
+Switch One Desktop to the Right=,Meta+Ctrl+Right,Bir Sağ Masaüstüne Geç
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Aşağıdaki Masaüstüne Geç
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Soldaki Pencereye Geç
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Sağdaki Pencereye Geç
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,Yukarıdaki Masaüstüne Geç
+Switch to Desktop 1=Ctrl+F1,Ctrl+F1,1. Masaüstüne Geç
+Switch to Desktop 10=,,10. Masaüstüne Geç
+Switch to Desktop 11=,,11. Masaüstüne Geç
+Switch to Desktop 12=,,12. Masaüstüne Geç
+Switch to Desktop 13=,,13. Masaüstüne Geç
+Switch to Desktop 14=,,14. Masaüstüne Geç
+Switch to Desktop 15=,,15. Masaüstüne Geç
+Switch to Desktop 16=,,16. Masaüstüne Geç
+Switch to Desktop 17=,,17. Masaüstüne Geç
+Switch to Desktop 18=,,18. Masaüstüne Geç
+Switch to Desktop 19=,,19. Masaüstüne Geç
+Switch to Desktop 2=Ctrl+F2,Ctrl+F2,2. Masaüstüne Geç
+Switch to Desktop 20=,,20. Masaüstüne Geç
+Switch to Desktop 3=Ctrl+F3,Ctrl+F3,3. Masaüstüne Geç
+Switch to Desktop 4=Ctrl+F4,Ctrl+F4,4. Masaüstüne Geç
+Switch to Desktop 5=,,5. Masaüstüne Geç
+Switch to Desktop 6=,,6. Masaüstüne Geç
+Switch to Desktop 7=,,7. Masaüstüne Geç
+Switch to Desktop 8=,,8. Masaüstüne Geç
+Switch to Desktop 9=,,9. Masaüstüne Geç
+Switch to Next Desktop=,,Sonraki Masaüstüne Geç
+Switch to Next Screen=,,Sonraki Ekrana Geç
+Switch to Previous Desktop=,,Önceki Masaüstüne Geç
+Switch to Previous Screen=,,Önceki Ekrana Geç
+Switch to Screen 0=,,0. Ekrana Geç
+Switch to Screen 1=,,1. Ekrana Geç
+Switch to Screen 2=,,2. Ekrana Geç
+Switch to Screen 3=,,3. Ekrana Geç
+Switch to Screen 4=,,4. Ekrana Geç
+Switch to Screen 5=,,5. Ekrana Geç
+Switch to Screen 6=,,6. Ekrana Geç
+Switch to Screen 7=,,7. Ekrana Geç
+Switch to Screen Above=,,Yukarıdaki Ekrana Geç
+Switch to Screen Below=,,Aşağıdaki Ekrana Geç
+Switch to Screen to the Left=,,Soldaki Ekrana Geç
+Switch to Screen to the Right=,,Sağdaki Ekrana Geç
+Toggle Night Color=none,none,Gece Rengini Aç/Kapat
+Toggle Window Raise/Lower=,,Pencereyi Büyüt/Küçült
+Walk Through Desktop List=,,Masaüstü Listesinde Gezin
+Walk Through Desktop List (Reverse)=,,Masaüstü Listesinde Geriye Git
+Walk Through Desktops=,,Masaüstü Üzerinde Gezin
+Walk Through Desktops (Reverse)=,,Masaüstü Listesinde Geriye Git
+Walk Through Windows=Alt+Tab,Alt+Tab,Pencereler Arasında Gezin
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,Pencereler Arasında Geriye Git
+Walk Through Windows Alternative=,,Alternatif Pencereler Arasında Gezin
+Walk Through Windows Alternative (Reverse)=,,Alternatif Pencereler Arasında Gezin (Geriye Doğru)
+Walk Through Windows of Current Application=Alt+`,Alt+`,Geçerli Uygulama Pencereleri Arasında Gezin
+Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Geçerli Uygulama Pencereleri Arasında Gezin (Geriye Doğru)
+Walk Through Windows of Current Application Alternative=,,Geçerli Uygulama Alternatif Pencereleri Arasında Gezin
+Walk Through Windows of Current Application Alternative (Reverse)=,,Geçerli Uygulama Alternatif Pencereleri Arasında Gezin (Geriye Doğru)
+Window Above Other Windows=,,Pencereyi Diğerlerinin Üzerinde Tut
+Window Below Other Windows=,,Pencereyi Diğerlerinin Altında Tut
+Window Close=Alt+F4,Alt+F4,Pencereyi Kapat
+Window Fullscreen=,,Pencereyi Tam Ekran Yap
+Window Grow Horizontal=,,Pencereyi Yatay Genişlet
+Window Grow Vertical=,,Pencereyi Dikey Genişlet
+Window Lower=,,Pencereyi İndir
+Window Maximize=Meta+PgUp,Meta+PgUp,Pencere Ekranı Kaplasın
+Window Maximize Horizontal=,,Pencere Ekranı Yatay Kaplasın
+Window Maximize Vertical=,,Pencere Ekranı Dikey Kaplasın
+Window Minimize=Meta+PgDown,Meta+PgDown,Pencereyi Simge Durumuna Küçült
+Window Move=,,Pencereyi Taşı
+Window Move Center=,,Pencereyi Merkeze Taşı
+Window No Border=,,Başlık Çubuğunu ve Çerçeveyi Aç/Kapat
+Window On All Desktops=,,Pencere'yi Tüm Masaüstlerinde Bulundur
+Window One Desktop Down=Meta+Ctrl+Shift+Down,Meta+Ctrl+Shift+Down,Pencere Bir Alt Masaüstüne
+Window One Desktop Up=Meta+Ctrl+Shift+Up,Meta+Ctrl+Shift+Up,Pencere Bir Üst Masaüstüne
+Window One Desktop to the Left=Meta+Ctrl+Shift+Left,Meta+Ctrl+Shift+Left,Pencere Bir Sol Masaüstüne
+Window One Desktop to the Right=Meta+Ctrl+Shift+Right,Meta+Ctrl+Shift+Right,Pencere Bir Sağ Masaüstüne
+Window One Screen Down=,,Pencere Bir Ekran Aşağı
+Window One Screen Up=,,Pencere Bir Ekran Yukarı
+Window One Screen to the Left=,,Pencere Bir Sol Ekrana
+Window One Screen to the Right=,,Pencere Bir Sağ Ekrana
+Window Operations Menu=Alt+F3,Alt+F3,Pencere İşlemleri Menüsü
+Window Pack Down=,,Pencereyi Aşağıya Taşı
+Window Pack Left=,,Pencereyi Sola Taşı
+Window Pack Right=,,Pencereyi Sağa Taşı
+Window Pack Up=,,Pencereyi Yukarıya Taşı
+Window Quick Tile Bottom=Meta+Down,Meta+Down,Pencereyi Alta Hızlı Döşe
+Window Quick Tile Bottom Left=,,Pencereyi Alt Sola Hızlı Döşe
+Window Quick Tile Bottom Right=,,Pencereyi Alt Sağa Hızlı Döşe
+Window Quick Tile Left=Meta+Left,Meta+Left,Pencereyi Sola Hızlı Döşe
+Window Quick Tile Right=Meta+Right,Meta+Right,Pencereyi Sağa Hızlı Döşe
+Window Quick Tile Top=Meta+Up,Meta+Up,Pencereyi Üste Hızlı Döşe
+Window Quick Tile Top Left=,,Pencereyi Üst Sola Hızlı Döşe
+Window Quick Tile Top Right=,,Pencereyi Üst Sağa Hızlı Döşe
+Window Raise=,,Pencereyi Alçalt
+Window Resize=,,Pencereyi Yeniden Boyutlandır
+Window Shade=,,Pencere Panjurunu Kapat
+Window Shrink Horizontal=,,Pencereyi Yatay Küçült
+Window Shrink Vertical=,,Pencereyi Dikey Küçült
+Window to Desktop 1=,,Pencere 1. Masaüstüne
+Window to Desktop 10=,,Pencere 10. Masaüstüne
+Window to Desktop 11=,,Pencere 11. Masaüstüne
+Window to Desktop 12=,,Pencere 12. Masaüstüne
+Window to Desktop 13=,,Pencere 13. Masaüstüne
+Window to Desktop 14=,,Pencere 14. Masaüstüne
+Window to Desktop 15=,,Pencere 15. Masaüstüne
+Window to Desktop 16=,,Pencere 16. Masaüstüne
+Window to Desktop 17=,,Pencere 17. Masaüstüne
+Window to Desktop 18=,,Pencere 18. Masaüstüne
+Window to Desktop 19=,,Pencere 19. Masaüstüne
+Window to Desktop 2=,,Pencere 2. Masaüstüne
+Window to Desktop 20=,,Pencere 20. Masaüstüne
+Window to Desktop 3=,,Pencere 3. Masaüstüne
+Window to Desktop 4=,,Pencere 4. Masaüstüne
+Window to Desktop 5=,,Pencere 5. Masaüstüne
+Window to Desktop 6=,,Pencere 6. Masaüstüne
+Window to Desktop 7=,,Pencere 7. Masaüstüne
+Window to Desktop 8=,,Pencere 8. Masaüstüne
+Window to Desktop 9=,,Pencere 9. Masaüstüne
+Window to Next Desktop=,,Pencere Sonraki Masaüstüne
+Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,Pencere Sonraki Ekrana
+Window to Previous Desktop=,,Pencere Önceki Masaüstüne
+Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,Pencere Önceki Ekrana
+Window to Screen 0=,,Pencere 0. Ekrana
+Window to Screen 1=,,Pencere 1. Ekrana
+Window to Screen 2=,,Pencere 2. Ekrana
+Window to Screen 3=,,Pencere 3. Ekrana
+Window to Screen 4=,,Pencere 4. Ekrana
+Window to Screen 5=,,Pencere 5. Ekrana
+Window to Screen 6=,,Pencere 6. Ekrana
+Window to Screen 7=,,Pencere 7. Ekrana
+_k_friendly_name=KWin
+view_actual_size=Meta+0,Meta+0,Gerçek Boyuta Yakınlaştır
+view_zoom_in=Meta++\tMeta+=,Meta++,Yakınlaştır
+view_zoom_out=Meta+-,Meta+-,Uzaklaştır
+
+[mediacontrol]
+_k_friendly_name=Ortam Denetleyicisi
+mediavolumedown=none,,Ortam sesini kıs
+mediavolumeup=none,,Ortam sesini aç
+nextmedia=Media Next,Media Next,Ortam oynatma sonraki
+pausemedia=Media Pause,Media Pause,Ortam oynatmayı duraklat
+playmedia=none,,Ortam oynatmayı başlat
+playpausemedia=Media Play,Media Play,Ortam oynatmayı başlat/duraklat
+previousmedia=Media Previous,Media Previous,Ortam oynatma önceki
+stopmedia=Media Stop,Media Stop,Ortam oynatmayı durdur
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E,Meta+E,Dolphin
+
+[org.kde.kcalc.desktop]
+_k_friendly_name=K Hesap
+_launch=Launch (1),Launch (1),K Hesap
+
+[org.kde.konsole.desktop]
+NewTab=none,none,Yeni Bir Sekme Aç
+NewWindow=none,none,Yeni Bir Pencere Aç
+_k_friendly_name=Konsole
+_launch=Ctrl+Alt+T,Ctrl+Alt+T,Konsole
+
+[org.kde.krunner.desktop]
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Pano içeriğinde komut çalıştır
+_k_friendly_name=KRunner
+_launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
+
+[org.kde.plasma.emojier.desktop]
+_k_friendly_name=Emoji Seçici
+_launch=Meta+.\tMeta+Ctrl+Alt+Shift+Space,Meta+.\tMeta+Ctrl+Alt+Shift+Space,Emoji Seçici
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,Etkin Pencereyi Yakala
+CurrentMonitorScreenShot=none,none,Geçerli Monitörü Yakala
+FullScreenScreenShot=Shift+Print,Shift+Print,Tüm Masaüstünü Yakala
+OpenWithoutScreenshot=none,none,Deklanşör'ü yakalama yapmadan başlat
+RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Dikdörtgen Bölgeyi Yakala
+WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,İmleç Altındaki Pencereyi Yakala
+_k_friendly_name=Deklanşör
+_launch=Print,Print,Deklanşör'ü Başlat
+
+[org_kde_powerdevil]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Klavye Parlaklığını Azalt
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Ekran Parlaklığını Azalt
+Hibernate=Hibernate,Hibernate,Hazırda Beklet
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Klavye Parlaklığını Artır
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Ekran Parlaklığını Artır
+PowerDown=Power Down,Power Down,Gücü Kapat
+PowerOff=Power Off,Power Off,Kapat
+Sleep=Sleep,Sleep,Askıya Al
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Klavye Arka Işığını Aç/Kapat
+Turn Off Screen=none,none,Ekranı Kapat
+_k_friendly_name=Güç Yönetimi
+
+[plasmashell]
+_k_friendly_name=Plasma
+activate task manager entry 1=Meta+1,Meta+1,Etkin Görev Yöneticisi Girdisi 1
+activate task manager entry 10=none,Meta+0,Etkin Görev Yöneticisi Girdisi 10
+activate task manager entry 2=Meta+2,Meta+2,Etkin Görev Yöneticisi Girdisi 2
+activate task manager entry 3=Meta+3,Meta+3,Etkin Görev Yöneticisi Girdisi 3
+activate task manager entry 4=Meta+4,Meta+4,Etkin Görev Yöneticisi Girdisi 4
+activate task manager entry 5=Meta+5,Meta+5,Etkin Görev Yöneticisi Girdisi 5
+activate task manager entry 6=Meta+6,Meta+6,Etkin Görev Yöneticisi Girdisi 6
+activate task manager entry 7=Meta+7,Meta+7,Etkin Görev Yöneticisi Girdisi 7
+activate task manager entry 8=Meta+8,Meta+8,Etkin Görev Yöneticisi Girdisi 8
+activate task manager entry 9=Meta+9,Meta+9,Etkin Görev Yöneticisi Girdisi 9
+activate widget 100=none,none,Hava Durumu Raporu Araç Takımını Etkinleştir
+activate widget 104=none,none,Uygulama Menüsü Araç Takımını Etkinleştir
+activate widget 113=none,none,Analog Saat Araç Takımını Etkinleştir
+activate widget 127=none,none,Gruplayan Plasmoid Araç Takımını Etkinleştir
+activate widget 128=none,none,Hava Durumu Raporu Araç Takımını Etkinleştir
+activate widget 138=none,none,Uygulama Başlatıcı Araç Takımını Etkinleştir
+activate widget 3=Alt+F1,none,Uygulama Başlatıcı Araç Takımını Etkinleştir
+clear-history=none,,Pano Geçmişini Temizle
+clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Otomatik Eylem Açılır Menüsü
+cycle-panels=Meta+Alt+P,Meta+Alt+P,Klavye odağını paneller arasında taşı
+cycleNextAction=none,,Sonraki Geçmiş Ögesi
+cyclePrevAction=none,,Önceki Geçmiş Ögesi
+edit_clipboard=none,,İçeriği Düzenle…
+manage activities=Meta+Q,Meta+Q,Etkinlik Değiştiriciyi Göster
+next activity=Meta+Tab,Meta+Tab,Etkinlikler arasında gezin
+previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Etkinlikler arasında gezin (Tersine)
+repeat_action=Meta+Ctrl+R,Meta+Ctrl+R,Geçerli Panoda Elle İşlem Yap
+show dashboard=Ctrl+F12,Ctrl+F12,Masaüstünü Göster
+show-barcode=none,,Barkodu Göster…
+show-on-mouse-pos=Meta+V,Meta+V,Fare Konumunda Ögeleri Göster
+stop current activity=Meta+S,Meta+S,Geçerli Etkinliği Durdur
+switch to next activity=none,,Sonraki Etkinliğe Geç
+switch to previous activity=none,,Önceki Etkinliğe Geç
+toggle do not disturb=none,,Rahatsız Etmeyin Kipini Aç/Kapat
+
+[systemsettings.desktop]
+_k_friendly_name=Sistem Ayarları
+_launch=Tools,Tools,Sistem Ayarları
+kcm-kscreen=none,none,Ekran Yapılandırması
+kcm-lookandfeel=none,none,Global Tema
+kcm-users=none,none,Kullanıcılar
+powerdevilprofilesconfig=none,none,Enerji Tasarrufu
+screenlocker=none,none,Ekran Kilitleme
+
+[wacomtablet]
+Map to fullscreen=Meta+Ctrl+F,Meta+Ctrl+F,Tam ekrana eşle
+Map to screen 1=Meta+Ctrl+1,Meta+Ctrl+1,Ekran 1'e eşle
+Map to screen 2=Meta+Ctrl+2,Meta+Ctrl+2,Ekran 2'ye eşle
+Next Profile=Meta+Ctrl+N,Meta+Ctrl+N,Sonraki profil
+Previous Profile=Meta+Ctrl+P,Meta+Ctrl+P,Önceki Profil
+Toggle screen map selection=Meta+Ctrl+M,Meta+Ctrl+M,Tüm ekranlar arası geçiş
+Toggle stylus mode=Meta+Ctrl+S,Meta+Ctrl+S,Stylus Aracını Göreceli/Mutlak Değiştir
+Toggle touch tool=Meta+Ctrl+T,Meta+Ctrl+T,Dokunma Aracını Etkinleştir/Kapat
+_k_friendly_name=Wacom Tablet

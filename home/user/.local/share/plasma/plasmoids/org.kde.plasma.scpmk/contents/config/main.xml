@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="Advanced">
+    <!--    Menu Items      -->
+    <entry name="cmdTitle1" type="String">
+      <default>System Settings</default>
+    </entry>
+    <entry name="cmdRun1" type="String">
+      <default>systemsettings</default>
+    </entry>
+    <entry name="cmdTitle2" type="String">
+      <default>Discover</default>
+    </entry>
+    <entry name="cmdRun2" type="String">
+      <default>plasma-discover</default>
+    </entry>
+    <entry name="cmdTitle3" type="String">
+      <default>Lock Screen</default>
+    </entry>
+    <entry name="cmdRun3" type="String">
+      <default>qdbus org.freedesktop.ScreenSaver /ScreenSaver Lock</default>
+    </entry>
+    <entry name="cmdTitle4" type="String">
+      <default>Log Out</default>
+    </entry>
+    <entry name="cmdRun4" type="String">
+      <default>qdbus org.kde.ksmserver /KSMServer logout 0 0 0</default>
+    </entry>
+    <entry name="cmdTitle5" type="String">
+      <default>Sleep</default>
+    </entry>
+    <entry name="cmdRun5" type="String">
+      <default>systemctl suspend</default>
+    </entry>
+    <entry name="cmdTitle6" type="String">
+      <default>Restart</default>
+    </entry>
+    <entry name="cmdRun6" type="String">
+      <default>/sbin/reboot</default>
+    </entry>
+    <entry name="cmdTitle7" type="String">
+      <default>Shut Down</default>
+    </entry>
+    <entry name="cmdRun7" type="String">
+      <default>/sbin/shutdown now</default>
+    </entry>
+    <entry name="cmdTitle8" type="String">
+      <default>Custom Item</default>
+    </entry>
+    <entry name="cmdRun8" type="String">
+      <default>Custom Command</default>
+    </entry>
+    <entry name="cmdTitle9" type="String">
+      <default>Custom Item</default>
+    </entry>
+    <entry name="cmdRun9" type="String">
+      <default>Custom Command</default>
+    </entry>
+    <entry name="cmdTitle10" type="String">
+      <default>Custom Item</default>
+    </entry>
+    <entry name="cmdRun10" type="String">
+      <default>Custom Command</default>
+    </entry>
+    <!--    SHOW/HIDE Items      -->
+    <entry name="showCmd1" type="bool">
+      <default>true</default>
+    </entry>
+    <entry name="showCmd2" type="bool">
+      <default>true</default>
+    </entry>
+    <entry name="showCmd3" type="bool">
+      <default>true</default>
+    </entry>
+    <entry name="showCmd4" type="bool">
+      <default>true</default>
+    </entry>
+    <entry name="showCmd5" type="bool">
+      <default>true</default>
+    </entry>
+    <entry name="showCmd6" type="bool">
+      <default>true</default>
+    </entry>
+    <entry name="showCmd7" type="bool">
+      <default>true</default>
+    </entry>
+    <entry name="showCmd8" type="bool">
+      <default>false</default>
+    </entry>
+    <entry name="showCmd9" type="bool">
+      <default>false</default>
+    </entry>
+    <entry name="showCmd10" type="bool">
+      <default>false</default>
+    </entry>
+    <entry name="showSep1" type="bool">
+      <default>false</default>
+    </entry>
+    <entry name="showSep2" type="bool">
+      <default>true</default>
+    </entry>
+    <entry name="showSep3" type="bool">
+      <default>false</default>
+    </entry>
+    <entry name="showSep4" type="bool">
+      <default>true</default>
+    </entry>
+    <entry name="showSep5" type="bool">
+      <default>false</default>
+    </entry>
+    <entry name="showSep6" type="bool">
+      <default>false</default>
+    </entry>
+    <entry name="showSep7" type="bool">
+      <default>false</default>
+    </entry>
+    <entry name="showSep8" type="bool">
+      <default>false</default>
+    </entry>
+    <entry name="showSep9" type="bool">
+      <default>false</default>
+    </entry>
+    <!--    ICON Components      -->
+    <entry name="mainIconHeight" type="int">
+      <default>24</default>
+    </entry>
+    <entry name="mainIconName" type="string">
+      <default>configure</default>
+    </entry>
+    <entry name="cmdIcon1" type="string">
+      <default>systemsettings</default>
+    </entry>
+    <entry name="cmdIcon2" type="string">
+      <default>plasmadiscover</default>
+    </entry>
+    <entry name="cmdIcon3" type="string">
+      <default>system-lock-screen</default>
+    </entry>
+    <entry name="cmdIcon4" type="string">
+      <default>system-log-out</default>
+    </entry>
+    <entry name="cmdIcon5" type="string">
+      <default>system-suspend</default>
+    </entry>
+    <entry name="cmdIcon6" type="string">
+      <default>system-reboot</default>
+    </entry>
+    <entry name="cmdIcon7" type="string">
+      <default>system-shutdown</default>
+    </entry>
+    <entry name="cmdIcon8" type="string">
+      <default>configure</default>
+    </entry>
+    <entry name="cmdIcon9" type="string">
+      <default>configure</default>
+    </entry>
+    <entry name="cmdIcon10" type="string">
+      <default>configure</default>
+    </entry>
+    <!--    Size      -->
+    <entry name="width" type="int">
+      <default>250</default>
+    </entry>
+    <entry name="height" type="int">
+      <default>250</default>
+    </entry>
+  </group>
+  
+</kcfg>
+
+
+ 

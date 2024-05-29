@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=node /home/mustafaozver/startkit/start.js
+Icon=
+Name=StartNODE
+Path=
+Terminal=False
+Type=Application

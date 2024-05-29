@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=google-drive-ocamlfuse ~/migoogledrive
+Icon=
+Name=google-drive-ocamlfuse
+Path=
+Terminal=False
+Type=Application

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=best PWA store
+Comment=Add a bestPWA store on your desktop.
+
+Type=Service
+Icon=search-symbolic
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=EQuilibrium
+X-KDE-PluginInfo-Email=apps@equilibriumos.com
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-Name=org.kde.plasma.bestpwacom
+X-KDE-PluginInfo-Version=0.4.0
+X-KDE-PluginInfo-Website=plasma.kde.org
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Category=Online Services
+X-Plasma-StandAloneApp=true

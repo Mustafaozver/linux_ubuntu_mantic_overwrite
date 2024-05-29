@@ -1,0 +1,29 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[ExtractDialog]
+2 screens: Height=560
+2 screens: Width=1280
+DirHistory[$e]=$HOME/Downloads/
+
+[General]
+Version=202
+ViewPropsTimestamp=2023,10,20,11,30,45.31
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME,file:$HOME/Downloads/jghfj
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:///media/mustafa/
+iconViewIconSize=64
+
+[KPropertiesDialog]
+2 screens: Height=616
+2 screens: Width=552
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Search]
+Location=Everywhere

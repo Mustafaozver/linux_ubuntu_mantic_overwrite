@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Fast Web browser
+Comment=Add a webpage on your desktop.
+Type=Service
+Icon= internet-web-browser
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=EQuilibrium
+X-KDE-PluginInfo-Email=apps@equilibriumos.com
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-Name=org.kde.plasma.fastwebbrowser
+X-KDE-PluginInfo-Version=0.1.1
+X-KDE-PluginInfo-Website=plasma.kde.org
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+X-KDE-PluginInfo-Category=Online Services
+X-Plasma-StandAloneApp=true

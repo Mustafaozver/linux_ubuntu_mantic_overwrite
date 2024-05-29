@@ -1,0 +1,34 @@
+# Sources file built for nala
+
+deb http://linuxmirrors.ir/pub/ubuntu/ mantic main restricted universe multiverse
+
+deb http://mirror.daniel-jost.net/ubuntu/ mantic main restricted universe multiverse
+
+deb https://ftp.linux.org.tr/ubuntu/ mantic main restricted universe multiverse
+
+deb http://ubuntu.vargonen.com/ubuntu/ mantic main restricted universe multiverse
+
+deb https://mirrors.storpool.com/ubuntu/archive/ mantic main restricted universe multiverse
+
+deb https://mirror.alastyr.com/ubuntu/ubuntu-archive/ mantic main restricted universe multiverse
+
+deb https://kozyatagi.mirror.guzel.net.tr/ubuntu/ mantic main restricted universe multiverse
+
+deb http://mirror.eu-fr.kamatera.com/ubuntu/ mantic main restricted universe multiverse
+
+deb https://mirror.telepoint.bg/ubuntu/ mantic main restricted universe multiverse
+
+deb https://mirrors.neterra.net/ubuntu/ mantic main restricted universe multiverse
+
+deb https://ubuntu.turhost.com/ubuntu/ mantic main restricted universe multiverse
+
+deb http://archive.ubuntu.csg.uzh.ch/ubuntu/ mantic main restricted universe multiverse
+
+deb http://mirrors.us.kernel.org/ubuntu/ mantic main restricted universe multiverse
+
+deb http://mirror.serverloft.eu/ubuntu/ubuntu/ mantic main restricted universe multiverse
+
+deb http://ubuntu.mirrors.ovh.net/ubuntu/ mantic main restricted universe multiverse
+
+deb http://ubuntu.mirror.serverloft.de/ubuntu/ mantic main restricted universe multiverse
+

@@ -1,0 +1,36 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "Zayronxio@gmail.com",
+                "Name": "Zayronxio"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Media Player Controls simple",
+        "EnabledByDefault": true,
+        "FormFactors": [
+            "tablet",
+            "handset",
+            "desktop"
+        ],
+        "Icon": "applications-multimedia",
+        "Id": "org.kde.plasma.mediaSimple",
+        "License": "GPL-2.0+",
+        "Name": "Widget Music Simple",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": "https://www.kde.org/plasma-desktop"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-DBusActivationService": "org.mpris.MediaPlayer2.*",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "SystemServices",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.multimediacontrols"
+    ],
+    "X-Plasma-StandAloneApp": true
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+<kcfgfile name=""/>
+
+<group name="keyStatusConfigPage">
+
+<entry name="debugMode" type="Bool">
+<default>false</default>
+</entry>
+
+<entry name="numCommand" type="String">
+<default>xset -q | sed -n 's/^.*Num Lock:\\s*\\(\\S*\\).*$/\\1/p'</default>
+</entry>
+
+<entry name="numSymbol" type="String">
+<default>#</default>
+</entry>
+
+</group>
+
+</kcfg>

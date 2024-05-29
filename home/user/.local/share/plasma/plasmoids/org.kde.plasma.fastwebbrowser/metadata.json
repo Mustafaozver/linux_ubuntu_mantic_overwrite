@@ -1,0 +1,27 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "apps@equilibriumos.com",
+                "Name": "EQuilibrium"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Add a webpage on your desktop.",
+      
+        "Icon": "internet-web-browser",
+        "Id": "org.kde.plasma.fastwebbrowser",
+        "License": "GPL-2.0+",
+        "Name": "Fast Web browser",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.1.1",
+        "Website": "plasma.kde.org"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-RemoteLocation": "",
+    "X-Plasma-StandAloneApp": true
+}

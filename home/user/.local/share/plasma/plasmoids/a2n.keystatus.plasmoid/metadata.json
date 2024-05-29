@@ -1,0 +1,27 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "a2n.dev@pm.me",
+                "Name": "Bouteiller <a2n> Alan"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Show special key status",
+        "Icon": "preferences-desktop",
+        "Id": "a2n.keystatus.plasmoid",
+        "License": "GPL-3.0+",
+        "Name": "Keys Status",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0.0",
+        "Website": "https://github.com/bouteillerAlan",
+        "Depends": [],
+        "EnabledByDefault": "false"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/keystatus.qml",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "SystemServices"
+}

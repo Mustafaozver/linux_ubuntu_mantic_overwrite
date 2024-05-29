@@ -1,0 +1,26 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "apps@equilibriumos.com",
+                "Name": "EQuilibrium"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Add a bestPWA store on your desktop.",
+        "Icon": "search-symbolic",
+        "Id": "org.kde.plasma.bestpwacom",
+        "License": "GPL-2.0+",
+        "Name": "bestPWA store",
+
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.4.0",
+        "Website": "plasma.kde.org"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-StandAloneApp": true
+}

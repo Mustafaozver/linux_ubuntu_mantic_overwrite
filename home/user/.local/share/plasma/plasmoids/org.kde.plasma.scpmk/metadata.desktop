@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=SCP menu
+Comment=Simple Customizable Power Menu for KDE
+
+Type=Service
+Icon=configure
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Author=Dervart
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=org.kde.plasma.scpmk
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Application Launchers
+X-KDE-PluginInfo-License=LGPL-2.0
+X-KDE-PluginInfo-EnabledByDefault=true
