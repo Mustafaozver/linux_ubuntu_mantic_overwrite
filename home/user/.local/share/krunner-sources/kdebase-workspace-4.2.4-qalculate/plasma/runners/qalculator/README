@@ -1,0 +1,42 @@
+
+*** ABOUT ***
+
+qalculatorrunner adds support for doing mathematical computations
+via qalculate in krunner.  The functionality is very similar to
+the default calculator runner.
+
+Qalculate offers arbitrary precision calculations and will solve
+certain algebraic equations.  It also offers symbolic computation
+for exact results--a large improvement over the default calculator
+runner.
+
+*** INSTALL ***
+
+Before you build qalculatorrunner, you must have the qalc program from 
+libqalculate in $PATH.
+
+To build the qalculate runner, go to the root kdebase-workspace-4.2.4-qalculate
+folder and run
+
+> cmake .
+> cd plasma/runners/qalculator
+> make
+
+To install, copy the krunner_qalculatorrunner.so from the 
+kdebase-workspace-4.2.4-qalculate/lib to your kde4 lib directory. For example
+
+> cp ../../../lib/krunner_qalculatorrunner.so /usr/lib/kde/
+
+and finally, copy the plasma-runner-qalculator.desktop file to the kde4 services 
+folder.  For example
+
+> cp plasma-runner-qalculator.desktop /usr/share/kde4/services/
+
+Qalculate results should appear next time you run krunner :-).
+
+*** DOC ***
+
+qalculatorrunner invokes the qalc command from libqalculate for all expressions
+involving an '=' character.  Two results are returned, one that is always
+approximated in decimal and one that is always in exact form.  qalc is called
+with 100 places of percision, though only 26 are shown.

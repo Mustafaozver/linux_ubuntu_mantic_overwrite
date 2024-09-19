@@ -1,0 +1,39 @@
+[FileDialogSize]
+2 screens: Height=803
+2 screens: Width=1204
+
+[KDiskFree]
+Device=100
+Free=80
+Full%=50
+HeaderSectionIndices=0,1,2,3,4,5,6,7
+Icon=49
+MountPoint=120
+Size=80
+SortColumn=0
+SortOrder=0
+Type=80
+UsageBar=1066
+
+[KFileDialog Settings]
+Recent Files[$e]=5x5.jpg,file:$HOME/Pictures/Özel/Prezentabl/Biyometrik/5x5.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Özel/Prezentabl/Biyometrik/
+iconViewIconSize=64
+
+[KPropertiesDialog]
+2 screens: Height=478
+2 screens: Width=431
+
+[MainWindow]
+1920x1080 screen: Height=1002
+1920x1080 screen: Width=1906
+1920x1080 screen: Window-Maximized=true
+2 screens: Height=998
+2 screens: Width=1020
+2 screens: Window-Maximized=true
+2 screens: XPosition=450
+2 screens: YPosition=190
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB3gAAAPyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

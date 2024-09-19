@@ -1,4 +1,21 @@
-deb http://archive.ubuntu.com/ubuntu mantic main
-deb http://archive.ubuntu.com/ubuntu/ mantic main restricted universe
-deb http://security.ubuntu.com/ubuntu/ mantic-security main restricted universe
-deb http://archive.ubuntu.com/ubuntu/ mantic-updates main restricted universe
+deb http://archive.ubuntu.com/ubuntu/ noble universe restricted main multiverse
+deb http://security.ubuntu.com/ubuntu/ noble-security universe restricted main multiverse
+deb http://archive.ubuntu.com/ubuntu/ noble-updates universe restricted main multiverse
+
+## deb http://linuxmirrors.ir/pub/ubuntu/ noble main restricted universe multiverse
+## deb http://mirror.daniel-jost.net/ubuntu/ noble main restricted universe multiverse
+## deb https://ftp.linux.org.tr/ubuntu/ noble main restricted universe multiverse
+## deb http://ubuntu.vargonen.com/ubuntu/ noble main restricted universe multiverse
+## deb https://mirrors.storpool.com/ubuntu/archive/ noble main restricted universe multiverse
+## deb https://mirror.alastyr.com/ubuntu/ubuntu-archive/ noble main restricted universe multiverse
+## deb https://kozyatagi.mirror.guzel.net.tr/ubuntu/ noble main restricted universe multiverse
+## deb http://mirror.eu-fr.kamatera.com/ubuntu/ noble main restricted universe multiverse
+## deb https://mirror.telepoint.bg/ubuntu/ noble main restricted universe multiverse
+## deb https://mirrors.neterra.net/ubuntu/ noble main restricted universe multiverse
+## deb https://ubuntu.turhost.com/ubuntu/ noble main restricted universe multiverse
+## deb http://archive.ubuntu.csg.uzh.ch/ubuntu/ noble main restricted universe multiverse
+## deb http://mirrors.us.kernel.org/ubuntu/ noble main restricted universe multiverse
+## deb http://mirror.serverloft.eu/ubuntu/ubuntu/ noble main restricted universe multiverse
+## deb http://ubuntu.mirrors.ovh.net/ubuntu/ noble main restricted universe multiverse
+## deb http://ubuntu.mirror.serverloft.de/ubuntu/ noble main restricted universe multiverse
+

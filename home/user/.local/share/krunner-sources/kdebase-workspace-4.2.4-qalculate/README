@@ -1,0 +1,23 @@
+This is a stripped down version of the kde4.2.4-workspace build environment
+meant for building the qalculate runner.
+
+krunner_qalculate requires qalc (from libqalculate) to be in $PATH.  
+Qalculate can be acquired at: 
+
+To build the qalculate runner run
+
+> cmake .
+> cd plasma/runners/qalculator
+> make
+
+To install, copy the krunner_qalculatorrunner.so from the kdebase-workspace-4.2.4-qalculate/lib 
+to your kde4 lib directory. For example
+
+> cp ../../../lib/krunner_qalculatorrunner.so /usr/lib/kde/
+
+and finally, copy the plasma-runner-qalculator.desktop file to the kde4 services folder.
+For example
+
+> cp plasma-runner-qalculator.desktop /usr/share/kde4/services/
+
+Qalculate results should appear next time you run krunner :-).

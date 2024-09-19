@@ -1,7 +1,18 @@
 [Desktop Entry]
+Comment[tr_TR]=
+Comment=
 Exec=juk
-Icon=
+GenericName[tr_TR]=
+GenericName=
+Icon=juk
+MimeType=
+Name[tr_TR]=JuK
 Name=JuK
 Path=
-Terminal=False
+StartupNotify=true
+Terminal=false
+TerminalOptions=
 Type=Application
+X-KDE-RunOnDiscreteGpu=false
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,22 @@
+[General]
+AutoStart=true
+Backend=FileResources
+Version=3.6.4
+
+[MainWindow]
+2 screens: Height=480
+2 screens: Width=640
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+ConfirmAlarmDeletion=true
+EmailQueuedNotify=false
+QuitWarn=
+
+[View]
+DateNavigatorTop=true
+ShowDateNavigator=false
+ShowResources=false

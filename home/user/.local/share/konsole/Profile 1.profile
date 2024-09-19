@@ -1,6 +1,5 @@
 [Appearance]
 ColorScheme=Linux
-Font=Ubuntu Mono,13,-1,5,50,0,0,0,0,0
 LineSpacing=1
 TabColor=128,255,255
 
@@ -9,7 +8,7 @@ CursorShape=1
 
 [General]
 AlternatingBackground=2
-Command=zsh
+Command=/bin/bash
 Environment=TERM=xterm-256color,COLORTERM=truecolor
 ErrorBackground=2
 Name=Profile 1
