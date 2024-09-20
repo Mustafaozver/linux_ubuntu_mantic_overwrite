@@ -25,9 +25,8 @@ iconViewIconSize=64
 2 screens: Width=431
 
 [MainWindow]
-1920x1080 screen: Height=1002
-1920x1080 screen: Width=1906
-1920x1080 screen: Window-Maximized=true
+1920x1080 screen: Height=1008
+1920x1080 screen: Width=1912
 2 screens: Height=998
 2 screens: Width=1020
 2 screens: Window-Maximized=true
@@ -35,5 +34,6 @@ iconViewIconSize=64
 2 screens: YPosition=190
 HDMI-1 eDP-1=eDP-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB3gAAAPyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAB3gAAAPwAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled

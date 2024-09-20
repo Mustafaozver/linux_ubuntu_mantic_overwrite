@@ -8,7 +8,7 @@ CursorShape=1
 
 [General]
 AlternatingBackground=2
-Command=/bin/bash
+Command=/bin/zsh
 Environment=TERM=xterm-256color,COLORTERM=truecolor
 ErrorBackground=2
 Name=Profile 1

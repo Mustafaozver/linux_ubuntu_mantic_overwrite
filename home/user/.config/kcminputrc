@@ -11,8 +11,8 @@ TapToClick=true
 X11LibInputXAccelProfileFlat=true
 XLbInptAccelProfileFlat=false
 XLbInptPointerAcceleration=0.2
-cursorSize=32
-cursorTheme=Breeze_Dark_Teal
+cursorSize=24
+cursorTheme=Esinti_Dark_Neon
 
 [Tmp]
 update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize
