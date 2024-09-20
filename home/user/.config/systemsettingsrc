@@ -16,8 +16,6 @@ Type=80
 UsageBar=1066
 
 [KFileDialog Settings]
-Recent Files[$e]=5x5.jpg,file:$HOME/Pictures/Özel/Prezentabl/Biyometrik/5x5.jpg
-Recent URLs[$e]=file:$HOME/Pictures/Özel/Prezentabl/Biyometrik/
 iconViewIconSize=64
 
 [KPropertiesDialog]

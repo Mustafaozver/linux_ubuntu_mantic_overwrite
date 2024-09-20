@@ -5,8 +5,6 @@ DefaultProfile=Profile 1.profile
 ConfigVersion=1
 
 [KFileDialog Settings]
-Recent Files[$e]=9_nasaspacescapes_0010_11.jpg,file:$HOME/Pictures/Uzay/9_nasaspacescapes_0010_11.jpg
-Recent URLs[$e]=file:$HOME/Pictures/Uzay/
 detailViewIconSize=16
 iconViewIconSize=64
 

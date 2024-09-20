@@ -9,8 +9,6 @@ Show Tab Bar=true
 Show Url Nav Bar=true
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Desktop/SOLİD.js,file:$HOME/Desktop/SOLİD.js
-Recent URLs[$e]=file:$HOME/Desktop/
 detailViewIconSize=16
 iconViewIconSize=64
 
