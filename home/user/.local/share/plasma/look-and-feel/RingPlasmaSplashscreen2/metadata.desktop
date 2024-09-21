@@ -1,0 +1,22 @@
+[Desktop Entry]
+Comment=RingPlasmaSplashscreen2
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Keywords[es]=Escritorio;Espacio de trabajo;Apariencia;Aspecto visual;Cerrar sesión;Bloquear;Suspender;Apagar;Hibernar;
+
+Name=RingPlasmaSplashscreen2
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Author=Mairení Núñez (mrmaire)
+X-KDE-PluginInfo-Category=Plasma Splashscreens
+X-KDE-PluginInfo-Email=maire.nunez@gmail.com
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-Name=RingPlasmaSplashscreen2
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=
+X-KDE-fallbackPackage=
+X-Plasma-MainScript=defaults
+
