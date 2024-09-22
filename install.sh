@@ -1,4 +1,4 @@
-sudo cp -R ./home/* ~/
+sudo cp -R ./home/user/* ~/
 sudo rm -rf ./home
 sudo cp ./* /
 
