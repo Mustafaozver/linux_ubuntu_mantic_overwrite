@@ -1,7 +1,7 @@
 [Desktop Entry]
-Exec=guake
-Icon=guake
-Name=Guake
+Exec=muezzin
+Icon=muezzin
+Name=Muezzin
 Path=
 Terminal=False
 Type=Application

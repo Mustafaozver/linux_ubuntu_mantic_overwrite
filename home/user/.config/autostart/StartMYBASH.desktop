@@ -1,7 +1,7 @@
 [Desktop Entry]
 Exec=sh /home/mustafa/.0/startkit/start.sh
-Icon=
-Name=StartNODE
+Icon=start
+Name=StartMYBASH
 Path=
 Terminal=False
 Type=Application

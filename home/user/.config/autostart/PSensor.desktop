@@ -1,7 +1,7 @@
 [Desktop Entry]
-Exec=muezzin
-Icon=
-Name=Muezzin
+Exec=psensor
+Icon=psensor
+Name=PSensor
 Path=
 Terminal=False
 Type=Application

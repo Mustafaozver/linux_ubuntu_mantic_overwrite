@@ -1,7 +1,7 @@
 [Desktop Entry]
-Exec=psensor
-Icon=
-Name=PSensor
+Exec=obsidian
+Icon=obsidian
+Name=Obsidian
 Path=
 Terminal=False
 Type=Application
