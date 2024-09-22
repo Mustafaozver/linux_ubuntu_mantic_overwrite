@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=node /home/mustafaozver/startkit/start.js
+Exec=sh /home/mustafa/.0/startkit/start.sh
 Icon=
 Name=StartNODE
 Path=
