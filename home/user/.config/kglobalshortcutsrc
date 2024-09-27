@@ -103,16 +103,16 @@ mute=Volume Mute,Volume Mute,Sessize Al
 
 [ksmserver]
 Halt Without Confirmation=none,,Onaylama Olmaksızın Kapat
-Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Lock Session
+Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Oturumu Kilitle
 Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Çık
 Log Out Without Confirmation=none,,Onay Olmadan Çık
 Reboot Without Confirmation=none,,Onay Olmadan Yeniden Başlat
-_k_friendly_name=Session Management
+_k_friendly_name=Oturum Yönetimi
 
 [kwin]
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Pencere Etkinleştirme Denemesi
 ClearLastMouseMark=Meta+Shift+F12,Meta+Shift+F12,Son Fare İşaretlemelerini Temizle
-ClearMouseMarks=Meta+Shift+F11,Meta+Shift+F11,Fare İşaretlemelerini Temizle
+ClearMouseMarks=Meta+Shift+F11,Meta+Shift+F11,Tüm Fare İşaretlemelerini Temizle
 Decrease Opacity=none,,Etkin Pencerenin Matlığını %​5 Azalt
 Edit Tiles=Meta+T,Meta+T,Döşeme Düzenleyiciyi Aç/Kapat
 Expose=Ctrl+F9,Ctrl+F9,Açık Pencereleri Göster (Geçerli Masaüstü)
@@ -332,7 +332,7 @@ Turn Off Screen=none,none,Ekranı Kapat
 _k_friendly_name=Güç Yönetimi
 
 [plasmashell]
-_k_friendly_name=Etkinlik geçişi
+_k_friendly_name=Plasma
 activate task manager entry 1=Meta+1,Meta+1,Etkin Görev Yöneticisi Girdisi 1
 activate task manager entry 10=none,Meta+0,Etkin Görev Yöneticisi Girdisi 10
 activate task manager entry 2=Meta+2,Meta+2,Etkin Görev Yöneticisi Girdisi 2
@@ -358,7 +358,7 @@ cyclePrevAction=none,,Önceki Geçmiş Ögesi
 edit_clipboard=none,,İçeriği Düzenle…
 manage activities=Meta+Q,Meta+Q,Etkinlik Değiştiriciyi Göster
 next activity=Meta+Tab,Meta+Tab,Etkinlikler arasında gezin
-previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Etkinlikler arasında gezin (Ters)
+previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Etkinlikler arasında gezin (Tersine)
 repeat_action=Meta+Ctrl+R,Meta+Ctrl+R,Geçerli Panoda Elle İşlem Yap
 show dashboard=Ctrl+F12,Ctrl+F12,Masaüstünü Göster
 show-barcode=none,,Barkodu Göster…

@@ -3,9 +3,9 @@ update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd
 
 [ColorEffects:Disabled]
 ChangeSelectionColor=
-Color=56,56,56
-ColorAmount=1
-ColorEffect=1
+Color=255,255,255
+ColorAmount=1,
+ColorEffect=1,
 ContrastAmount=0.65
 ContrastEffect=1
 Enable=
@@ -14,7 +14,7 @@ IntensityEffect=2
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
-Color=112,111,110
+Color=255,255,255
 ColorAmount=0.025
 ColorEffect=2
 ContrastAmount=0.1
@@ -142,7 +142,7 @@ History Items[$e]=file:$HOME/snap/chromium/common/chromium,file:///media/mustafa
 [General]
 AccentColor=0,85,255
 BrowserApplication=firefox_firefox.desktop
-ColorSchemeHash=2a1c24473aa23705f46e751a5ce38e5178ca647e
+ColorSchemeHash=41ac573afe5a38ec0c1992322230e6f0f4ff9017
 LastUsedCustomAccentColor=0,85,255
 XftHintStyle=hintslight
 XftSubPixel=rgb
