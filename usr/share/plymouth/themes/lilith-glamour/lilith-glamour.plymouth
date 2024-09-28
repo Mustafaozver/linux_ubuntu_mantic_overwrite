@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=lilith-glamour
+Description=A theme that features the Ubuntu logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lilith-glamour
+ScriptFile=/usr/share/plymouth/themes/lilith-glamour/lilith-glamour.script
