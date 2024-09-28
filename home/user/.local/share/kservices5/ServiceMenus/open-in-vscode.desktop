@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=inode/directory
+Actions=openInVSCode
+
+[Desktop Action openInVSCode]
+Name=Klasörü VS Code ile Aç
+Exec=code %f
+Icon=code

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=application/vnd.debian.binary-package;
+Actions=installDeb;removeDeb
+
+[Desktop Action installDeb]
+Name=.deb Paketini Kur
+Exec=konsole --noclose -e sudo dpkg -i %f
+Icon=package-x-generic
+
+[Desktop Action removeDeb]
+Name=.deb Paketini Kaldır
+Exec=konsole --noclose -e sudo dpkg -r $(dpkg-deb -f %f Package)
+Icon=package-x-generic
