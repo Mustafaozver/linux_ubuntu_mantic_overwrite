@@ -1,10 +1,12 @@
 [Desktop Entry]
-DefaultProfile=Profile 1.profile
+DefaultProfile=KONSOLEPROFILE.profile
 
 [General]
 ConfigVersion=1
 
 [KFileDialog Settings]
+Recent Files[$e]=background.jpg,file:///usr/share/sddm/themes/Infinity-SDDM/background.jpg
+Recent URLs[$e]=file:///usr/share/sddm/themes/Infinity-SDDM/
 detailViewIconSize=16
 iconViewIconSize=64
 
@@ -12,8 +14,8 @@ iconViewIconSize=64
 ShowWindowTitleOnTitleBar=true
 
 [MainWindow]
-1920x1080 screen: Height=1006
-1920x1080 screen: Width=953
+1920x1080 screen: Height=1008
+1920x1080 screen: Width=952
 1920x1080 screen: Window-Maximized=true
 1920x1080 screen: XPosition=9
 1920x1080 screen: YPosition=41
@@ -24,7 +26,7 @@ ShowWindowTitleOnTitleBar=true
 2 screens: YPosition=60
 HDMI-1 eDP-1=eDP-1
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAVQA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAAA+QD///8AAAd4AAADvwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAATT/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAESAAADv/wCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawEAAAAxAAABXAAAAUQA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAQAAAY4AAAJiAAAA5wD///8AAAZlAAADvwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAS7/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
 

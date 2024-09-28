@@ -144,9 +144,14 @@ AccentColor=0,85,255
 BrowserApplication=firefox_firefox.desktop
 ColorSchemeHash=41ac573afe5a38ec0c1992322230e6f0f4ff9017
 LastUsedCustomAccentColor=0,85,255
+XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
-fixed=Ubuntu Mono,10,-1,5,50,0,0,0,0,0
+fixed=Victor Mono,12,-1,5,75,0,0,0,0,0,Bold
+font=Noto Sans,10,-1,5,50,0,0,0,0,0
+menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0
+toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 
 [Icons]
 Theme=MUSTAFA
@@ -180,6 +185,7 @@ View Style=Simple
 [WM]
 activeBackground=0,0,0
 activeBlend=252,252,252
+activeFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 activeForeground=252,252,252
 inactiveBackground=0,0,0
 inactiveBlend=161,169,177
