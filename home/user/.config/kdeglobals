@@ -141,13 +141,13 @@ History Items[$e]=file:$HOME/snap/chromium/common/chromium,file:///media/mustafa
 
 [General]
 AccentColor=0,85,255
-BrowserApplication=firefox_firefox.desktop
+BrowserApplication=google-chrome.desktop
 ColorSchemeHash=41ac573afe5a38ec0c1992322230e6f0f4ff9017
 LastUsedCustomAccentColor=0,85,255
 XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
-fixed=Victor Mono,12,-1,5,75,0,0,0,0,0,Bold
+fixed=Fira Code,12,-1,5,75,0,0,0,0,0,Bold
 font=Noto Sans,10,-1,5,50,0,0,0,0,0
 menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0

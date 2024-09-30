@@ -108,7 +108,7 @@ immutability=1
 plugin=org.kde.plasma.scpmk
 
 [Containments][26][Applets][151][Configuration]
-PreloadWeight=55
+PreloadWeight=100
 
 [Containments][26][Applets][153]
 immutability=1
@@ -240,7 +240,7 @@ immutability=1
 plugin=org.kde.plasma.mediaSimple
 
 [Containments][49][Applets][152][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][49][Applets][50]
 immutability=1
@@ -375,7 +375,7 @@ immutability=1
 plugin=org.kde.plasma.mediaSimple
 
 [Containments][65][Applets][151][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][65][Applets][66]
 immutability=1
@@ -555,7 +555,7 @@ immutability=1
 plugin=org.kde.plasma.mediaSimple
 
 [Containments][8][Applets][150][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][8][Applets][16]
 immutability=1
@@ -645,6 +645,8 @@ configMigrated=true
 [Containments][81][Applets][100][Configuration][Appearance]
 showHumidityInTooltip=true
 showPressureInTooltip=true
+showTemperatureInBadge=true
+showTemperatureInCompactMode=true
 showWindInTooltip=true
 
 [Containments][81][Applets][100][Configuration][ConfigDialog]
@@ -665,7 +667,7 @@ immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][81][Applets][108][Configuration]
-PreloadWeight=11
+PreloadWeight=0
 
 [Containments][81][Applets][110]
 immutability=1
@@ -679,7 +681,7 @@ immutability=1
 plugin=org.kde.plasma.mediaSimple
 
 [Containments][81][Applets][149][Configuration]
-PreloadWeight=29
+PreloadWeight=5
 
 [Containments][81][Applets][82]
 immutability=1
@@ -701,7 +703,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][81][Applets][85][Configuration]
-PreloadWeight=90
+PreloadWeight=100
 
 [Containments][81][Applets][86]
 immutability=1
@@ -715,7 +717,7 @@ immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
 [Containments][81][Applets][87][Configuration]
-PreloadWeight=85
+PreloadWeight=100
 
 [Containments][81][Applets][87][Configuration][ConfigDialog]
 DialogHeight=540
@@ -731,6 +733,9 @@ plugin=org.kde.plasma.keyboardlayout
 [Containments][81][Applets][89]
 immutability=1
 plugin=org.kde.plasma.vault
+
+[Containments][81][Applets][89][Configuration]
+PreloadWeight=55
 
 [Containments][81][Applets][90]
 immutability=1
@@ -761,7 +766,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][81][Applets][93][Configuration]
-PreloadWeight=57
+PreloadWeight=6
 
 [Containments][81][Applets][94]
 immutability=1
@@ -801,4 +806,4 @@ useCustomButtonImage=true
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Bağlaçlar.pdf,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/Grammer of English.jpeg,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/İngilizce,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/irregular-verbs-exam-print.jpg,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/Special Characters — Alt Keyboard Sequences.png,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/Bağlaçlar.pdf,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/Projeler,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/iş başvuru,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/Yedek,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/İngilizce,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/Yedek,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/video,0,657c557b-ec5d-4072-8686-e64aa3c6245d,desktop:/deva doc,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/Projeler,0,657c557b-ec5d-4072-8686-e64aa3c6245d,desktop:/mRemoteNG yedeklemesi.xml,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/iso,0,657c557b-ec5d-4072-8686-e64aa3c6245d,desktop:/iso,0,40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9,desktop:/Yedek,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/deva doc,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/irregular-verbs-exam-print.jpg,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/video,0,40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9,desktop:/SON 10 YILIN 4611 ÜDS\\, KPDS\\, YDS SINAVLARI KELİME LİSTESİ (1) FOTOKOPİ.pdf,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/İngilizce,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/theme.txt,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/irregular-verbs-exam-print.jpg,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/Grammer of English.jpeg,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/iş başvuru,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/Projeler,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/Special Characters — Alt Keyboard Sequences.png,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/work,0,657c557b-ec5d-4072-8686-e64aa3c6245d,desktop:/Grammer of English.jpeg,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/mRemoteNG yedeklemesi.xml,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/mRemoteNG yedeklemesi.xml,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/SOLİD.js,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/work,0,40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9,desktop:/Projeler,0,40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9,desktop:/Bağlaçlar.pdf,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/Special Characters — Alt Keyboard Sequences.png,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/deva doc,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/SON 10 YILIN 4611 ÜDS\\, KPDS\\, YDS SINAVLARI KELİME LİSTESİ (1) FOTOKOPİ.pdf,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/Projeler,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/iş başvuru,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/SON 10 YILIN 4611 ÜDS\\, KPDS\\, YDS SINAVLARI KELİME LİSTESİ (1) FOTOKOPİ.pdf,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/theme.txt,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/theme.txt,0,40f08dfa-6d40-43b3-985f-e60a14282b2e
+screenMapping=desktop:/iso,0,40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9,desktop:/Grammer of English.jpeg,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/Yedek,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/İngilizce,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/video,0,40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9,desktop:/İngilizce,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/irregular-verbs-exam-print.jpg,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/work,0,657c557b-ec5d-4072-8686-e64aa3c6245d,desktop:/Projeler,0,657c557b-ec5d-4072-8686-e64aa3c6245d,desktop:/İngilizce,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/Projeler,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/Bağlaçlar.pdf,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/Projeler,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/Grammer of English.jpeg,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/theme.txt,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/SON 10 YILIN 4611 ÜDS\\, KPDS\\, YDS SINAVLARI KELİME LİSTESİ (1) FOTOKOPİ.pdf,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/Special Characters — Alt Keyboard Sequences.png,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/video,0,657c557b-ec5d-4072-8686-e64aa3c6245d,desktop:/iş başvuru,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/Projeler,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/mRemoteNG yedeklemesi.xml,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/Grammer of English.jpeg,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/Projeler,0,40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9,desktop:/Bağlaçlar.pdf,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/theme.txt,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/SON 10 YILIN 4611 ÜDS\\, KPDS\\, YDS SINAVLARI KELİME LİSTESİ (1) FOTOKOPİ.pdf,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/iso,0,657c557b-ec5d-4072-8686-e64aa3c6245d,desktop:/Yedek,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/irregular-verbs-exam-print.jpg,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/Bağlaçlar.pdf,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/iş başvuru,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/deva doc,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/SON 10 YILIN 4611 ÜDS\\, KPDS\\, YDS SINAVLARI KELİME LİSTESİ (1) FOTOKOPİ.pdf,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/deva doc,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/mRemoteNG yedeklemesi.xml,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/iş başvuru,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/SOLİD.js,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/mRemoteNG yedeklemesi.xml,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/work,0,40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9,desktop:/Special Characters — Alt Keyboard Sequences.png,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/Special Characters — Alt Keyboard Sequences.png,0,d55443cc-65a5-482b-b047-1e9dacb915af,desktop:/irregular-verbs-exam-print.jpg,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/theme.txt,0,c2da9258-6653-447d-bba2-c5cdb5afc9bb,desktop:/deva doc,0,40f08dfa-6d40-43b3-985f-e60a14282b2e,desktop:/Yedek,0,40f08dfa-6d40-43b3-985f-e60a14282b2e

@@ -33,7 +33,10 @@ PopupMenus=93
 TornOffMenus=96
 
 [NightColor]
-Mode=Constant
+Active=true
+LatitudeFixed=39.93
+LongitudeFixed=32.86
+Mode=Location
 
 [Plugins]
 bismuthEnabled=true
@@ -58,6 +61,7 @@ keepFloatAbove=false
 layoutPerActivity=false
 layoutPerDesktop=false
 newWindowAsMaster=true
+noTileBorder=true
 preventProtrusion=false
 screenGapBottom=5
 screenGapLeft=5
@@ -90,6 +94,9 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Wayland]
 VirtualKeyboardEnabled=true
+
+[Windows]
+SnapOnlyWhenOverlapping=true
 
 [Xwayland]
 Scale=1

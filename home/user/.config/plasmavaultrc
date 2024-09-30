@@ -1,0 +1,14 @@
+[/home/mustafa/.local/share/plasma-vault/Mustafa.enc]
+activities=657c557b-ec5d-4072-8686-e64aa3c6245d,40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9
+backend=cryfs
+lastError=Bilinmeyen aygıt (code: 1)
+lastStatus=1
+mountPoint=/home/mustafa/Vaults/Mustafa
+name=Mustafa
+offlineOnly=false
+
+[EncryptedDevices]
+/home/mustafa/.local/share/plasma-vault/Mustafa.enc=true
+
+[UI-notice]
+SkipNotice-cryfs-message=true
