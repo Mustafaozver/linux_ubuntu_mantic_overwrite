@@ -5,8 +5,8 @@ DefaultProfile=KONSOLEPROFILE.profile
 ConfigVersion=1
 
 [KFileDialog Settings]
-Recent Files[$e]=background.jpg,file:///usr/share/sddm/themes/Infinity-SDDM/background.jpg
-Recent URLs[$e]=file:///usr/share/sddm/themes/Infinity-SDDM/
+Recent Files[$e]=background.jpg,file:///Static/Image/vecteezy_studio-empty-background-wall-and-floor-grunge-texture-cement_6277662_684.jpg,file:///usr/share/sddm/themes/Infinity-SDDM/background.jpg
+Recent URLs[$e]=file:///usr/share/sddm/themes/Infinity-SDDM/,file:///Static/Image/
 detailViewIconSize=16
 iconViewIconSize=64
 
@@ -25,8 +25,7 @@ ShowWindowTitleOnTitleBar=true
 2 screens: XPosition=504
 2 screens: YPosition=60
 HDMI-1 eDP-1=eDP-1
-RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAESAAADv/wCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawEAAAAxAAABXAAAAUQA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAQAAAY4AAAJiAAAA5wD///8AAAZlAAADvwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAS7/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADMAAADv/wCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawEAAAAxAAABWQAAAVQA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAQAAAYsAAAJlAAAA+QD///8AAAarAAADvwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAATT/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
 
