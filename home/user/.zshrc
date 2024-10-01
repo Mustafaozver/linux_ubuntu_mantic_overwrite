@@ -13,7 +13,7 @@ _ST="$BACKGRUND_WHITE$TEXT_BLUE$FONT_BOLD"
 _FN="$RESET_CONSOLE"
 
 
-ZSH_THEME="fox"
+ZSH_THEME="MUSTAFA"
 
 # CASE_SENSITIVE="true"
 # HYPHEN_INSENSITIVE="true"
@@ -44,6 +44,12 @@ plugins=(
 	
 	zsh-autosuggestions
 	zsh-syntax-highlighting
+	
+	autojump
+	urltools
+	bgnotify
+	zsh-history-enquirer
+	jovial
 )
 
 source $ZSH/oh-my-zsh.sh
