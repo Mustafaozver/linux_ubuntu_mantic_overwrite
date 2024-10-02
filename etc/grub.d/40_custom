@@ -5,7 +5,7 @@ exec tail -n +3 $0
 # the 'exec tail' line above.
 
 
-menuentry "Start SQUASHFS" --class debian {
+menuentry "Reconvery Media" --class debian {
  linux /live/vmlinuz boot=live live-config live-media-path=/live quiet splash --
  initrd /live/initrd.img
 }

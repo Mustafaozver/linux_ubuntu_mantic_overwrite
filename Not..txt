@@ -1,0 +1,2 @@
+/etc/initramfs-tools/conf.d/resume
+/usr/share/grub/default/grub

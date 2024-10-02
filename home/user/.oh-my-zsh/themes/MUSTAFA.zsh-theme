@@ -16,19 +16,11 @@ LOCATION_AREA="[%{$fg_bold[cyan]%}$LOCATION%{$reset_color%}]"
 DATETIME_AREA="%{$bg[blue]%}%{$fg_bold[default]%}[%{$fg_bold[yellow]%}$DATETIME%{$fg_bold[default]%}]%{$reset_color%}"
 
 
-LINEF=""
+LINEF="[%{$fg_bold[yellow]%}$END_REPORT%{$reset_color%}] [$LAST_INDEX] [$DATETIME]"
 
-if [[ $? -eq 0 ]]; then
-  LINEF="[%{$fg_bold[green]%}OK%{$reset_color%}] [$LAST_INDEX] [$DATETIME]"
-else
-  LINEF="[%{$fg_bold[red]%}FAIL%{$reset_color%}] [$LAST_INDEX] [$DATETIME]"
-fi
+LINE0="%{$reset_color%}%{$fg_bold[blue]%}⌠%{$reset_color%}$USERNAME_AREA $LOCATION_AREA"
 
-
-
-LINE0="%{$reset_color%}⌠$USERNAME_AREA $LOCATION_AREA"
-
-LINEL="%{$reset_color%}⌡%{$reset_color%}»%{$reset_color%}"
+LINEL="%{$reset_color%}%{$fg_bold[blue]%}⌡%{$reset_color%}»%{$reset_color%}"
 
 
 ZSH_THEME_PROMPT_NEWLINE_BEFORE_PROMPT=true
@@ -38,7 +30,7 @@ ZSH_THEME_PROMPT_PREFIX="PRE"
 ZSH_THEME_PROMPT_SUFFIX="SUF"
 
 
-ZSH_THEME_TERM_TITLE_IDLE="OMZ Mustafa [$DATETIME] (Deactive)"
+ZSH_THEME_TERM_TITLE_IDLE="OMZ Mustafa [$DATETIME]"
 ZSH_THEME_TERM_TITLE="OMZ Mustafa [$DATETIME] (Active)"
 
 RPROMPT="« $BLINKER$DATETIME_AREA"

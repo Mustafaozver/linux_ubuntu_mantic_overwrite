@@ -58,6 +58,6 @@ source $ZSH/oh-my-zsh.sh
 export LANG=tr_TR.UTF-8
 export EDITOR='nano'
 
-## neofetch
+neofetch
 
 ## echo "$_ST Hoş Geldiniz:\n $_FN"
