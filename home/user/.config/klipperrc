@@ -1,0 +1,6 @@
+[General]
+ActionsInfoMessageShown=false
+IgnoreImages=false
+MaxClipItems=30
+URLGrabberEnabled=true
+Version=5.27.11

@@ -34,9 +34,11 @@ TornOffMenus=96
 
 [NightColor]
 Active=true
+DayTemperature=6300
 LatitudeFixed=39.93
 LongitudeFixed=32.86
 Mode=Location
+NightTemperature=3300
 
 [Plugins]
 bismuthEnabled=true
