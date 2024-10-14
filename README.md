@@ -1,1 +1,1 @@
-# ubuntu_kiosk_overwrite
+# linux_ubuntu_mantic_overwrite
