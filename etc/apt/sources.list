@@ -18,4 +18,3 @@ deb http://archive.ubuntu.com/ubuntu/ noble-updates universe restricted main mul
 ## deb http://mirror.serverloft.eu/ubuntu/ubuntu/ noble main restricted universe multiverse
 ## deb http://ubuntu.mirrors.ovh.net/ubuntu/ noble main restricted universe multiverse
 ## deb http://ubuntu.mirror.serverloft.de/ubuntu/ noble main restricted universe multiverse
-

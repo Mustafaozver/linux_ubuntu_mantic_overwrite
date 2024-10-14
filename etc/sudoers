@@ -1,0 +1,17 @@
+Defaults        env_reset
+Defaults        mail_badpass
+Defaults        secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
+Defaults        use_pty
+
+root    ALL=(ALL:ALL) ALL
+%admin ALL=(ALL) ALL
+%sudo   ALL=(ALL:ALL) ALL
+@includedir /etc/sudoers.d
+
+admin ALL=(ALL:ALL) NOPASSWD: ALL
+sandbox ALL=(ALL:ALL) ALL,!ALL
+
+mustafa ALL=(ALL:ALL) NOPASSWD: ALL
+
+samba ALL=(ALL) NOPASSWD: ALL
+sshuser ALL=(ALL) NOPASSWD: ALL
