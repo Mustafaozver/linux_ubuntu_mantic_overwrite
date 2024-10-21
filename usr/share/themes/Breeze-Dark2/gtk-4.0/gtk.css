@@ -127,15 +127,19 @@ these are pretty self explicative */
 @define-color warning_color_breeze #f67400;
 @define-color error_color_breeze #da4453;
 @define-color success_color_breeze #27ae60;
+
 @define-color warning_color_backdrop_breeze #f67400;
 @define-color error_color_backdrop_breeze #da4453;
 @define-color success_color_backdrop_breeze #27ae60;
+
 @define-color warning_color_insensitive_breeze rgba(224, 105, 0, 0.35);
 @define-color error_color_insensitive_breeze rgba(214, 46, 63, 0.35);
 @define-color success_color_insensitive_breeze rgba(35, 158, 87, 0.35);
+
 @define-color warning_color_insensitive_backdrop_breeze rgba(224, 105, 0, 0.35);
 @define-color error_color_insensitive_backdrop_breeze rgba(214, 46, 63, 0.35);
 @define-color success_color_insensitive_backdrop_breeze rgba(35, 158, 87, 0.35);
+
 @define-color link_color_breeze #1d99f3;
 @define-color link_visited_color_breeze #9b59b6;
 /*
@@ -145,9 +149,12 @@ these are pretty self explicative */
 */
 @define-color theme_titlebar_background_breeze #31363b;
 @define-color theme_titlebar_foreground_breeze #fcfcfc;
+
 @define-color theme_titlebar_background_light_breeze #2a2e32;
+
 @define-color theme_titlebar_foreground_backdrop_breeze #a1a9b1;
 @define-color theme_titlebar_background_backdrop_breeze #2a2e32;
+
 @define-color theme_titlebar_foreground_insensitive_breeze rgba(229, 229, 229, 0.35);
 @define-color theme_titlebar_foreground_insensitive_backdrop_breeze rgba(144, 154, 163, 0.35);
 /*
@@ -210,12 +217,6 @@ label:backdrop selection.background {
 	background-color: @theme_unfocused_bg_color_breeze;
 }
 
-/*
-   These wildcard seems unavoidable, need to investigate.
-   Wildcards are bad and troublesome, use them with care,
-   or better, just don't.
-   Everytime a wildcard is used a kitten dies, painfully.
-*/
 .gtkstyle-fallback {
 	background-color: @theme_bg_color_breeze;
 	color: @theme_fg_color_breeze;
