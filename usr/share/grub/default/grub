@@ -5,8 +5,9 @@ GRUB_TIMEOUT=5
 GRUB_DISTRIBUTOR=`lsb_release -i -s 2> /dev/null || echo Debian`
 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash resume=UUID=5363fe72-4bd7-4601-98bf-05c6a5ee819d"
 GRUB_CMDLINE_LINUX=""
-
-#GRUB_DISABLE_OS_PROBER=false
+#GRUB_CMDLINE_LINUX="cryptdevice=UUID=<UUID-sda4>:root root=/dev/mapper/ROOT-root rootflags=subvol=@"
+#GRUB_PRELOAD_MODULES=lvm
+GRUB_DISABLE_OS_PROBER=true
 #GRUB_GFXMODE=640x480
 
 GRUB_THEME="/boot/grub/themes/theme_1/theme.txt"

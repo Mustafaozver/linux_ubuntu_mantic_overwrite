@@ -1,3 +1,9 @@
-#overlay / overlay rw 0 0
 
-#tmpfs /tmp tmpfs rw,nosuid,nodev,inode64 0 0
+# [source]              [target]    [type]   [options]                [dump]  [pass]
+# UUID=<UUID-sda3>       none       swap     sw                       0       0
+# UUID=<UUID-sda1>       /boot/efi  vfat     defaults                 0       1
+# UUID=<UUID-sda2>       /boot      ext4     defaults                 0       1
+# /dev/mapper/ROOT-root  /          btrfs    compress=zstd,subvol=@   0       1
+# /dev/mapper/HOME-home  /home      btrfs    compress=zstd,subvol=@   0       2
+# tmpfs                  /tmp       tmpfs    rw,nosuid,nodev,inode64  0       0
+# overlay                /          overlay  rw                       0       0

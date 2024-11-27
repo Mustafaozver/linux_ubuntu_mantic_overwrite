@@ -1,1 +1,4 @@
-# <target name>	<source device>		<key file>	<options>
+
+# [target]  [source]          [key]                   [options]
+# root      UUID=<UUID-sda4>  /Static/.keys/ROOT.key  luks
+# home      UUID=<UUID-sda5>  /Static/.keys/HOME.key  luks

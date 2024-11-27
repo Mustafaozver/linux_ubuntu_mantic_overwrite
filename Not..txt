@@ -1,3 +1,4 @@
 /etc/initramfs-tools/conf.d/resume
 /etc/default/grub
 /usr/share/grub/default/grub
+/etc/crypttab
