@@ -34,11 +34,10 @@ TornOffMenus=96
 
 [NightColor]
 Active=true
-DayTemperature=6300
 LatitudeFixed=39.93
 LongitudeFixed=32.86
 Mode=Location
-NightTemperature=3300
+NightTemperature=4000
 
 [Plugins]
 bismuthEnabled=true
@@ -92,6 +91,12 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][94126773-3de4-56a8-92ae-c46916577dc8]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][d92ec58a-0fdf-5b8b-9b6f-63e695eb679e]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][f7909011-d2c3-5393-9aff-cf1a548fd8c9]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Wayland]

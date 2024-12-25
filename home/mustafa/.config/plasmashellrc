@@ -1,4 +1,16 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmcAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAABbQAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+1920x1080 screen: Height=550
+1920x1080 screen: Width=769
+
+[General]
+Number of Actions=0
+
 [KPropertiesDialog]
+1920x1080 screen: Height=569
+1920x1080 screen: Width=586
 2 screens: Height=616
 2 screens: Width=552
 

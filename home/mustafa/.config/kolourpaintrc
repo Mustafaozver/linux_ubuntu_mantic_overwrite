@@ -1,19 +1,20 @@
 [General Settings]
 First Time=false
-Last Document Size=805,427
+Last Document Size=1238,635
 Open Images in the Same Window=false
 
 [KFileDialog Settings]
 iconViewIconSize=64
 
 [MainWindow]
-1920x1080 screen: Height=998
-1920x1080 screen: Width=1902
+1920x1080 screen: Height=1008
+1920x1080 screen: Width=952
+1920x1080 screen: Window-Maximized=true
 2 screens: Height=998
 2 screens: Width=1902
 MenuBar=Disabled
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAQAAAAMAAAcqAAAAbvwBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAAEQAAAcqAAACDQD///8AAAcqAAADNAAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAcwAAAAbvwBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAAEgAAAcwAAACBQD///8AAAcwAAADOgAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 
 [MainWindow][Toolbar Tool Box]
@@ -22,7 +23,7 @@ ToolButtonStyle=IconOnly
 [Recent Files]
 
 [Tool Settings]
-Last Used Tool=8
+Last Used Tool=13
 Tool Widget Brush Col=0
 Tool Widget Brush Row=0
 Tool Widget Eraser Size Col=0
@@ -30,7 +31,7 @@ Tool Widget Eraser Size Row=1
 Tool Widget Fill Style Col=0
 Tool Widget Fill Style Row=0
 Tool Widget Line Width Col=0
-Tool Widget Line Width Row=0
+Tool Widget Line Width Row=4
 Tool Widget Opaque/Transparent Col=0
 Tool Widget Opaque/Transparent Row=0
 Tool Widget Spraycan Size Col=0

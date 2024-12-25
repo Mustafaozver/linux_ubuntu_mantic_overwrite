@@ -15,7 +15,7 @@ hideOnCloseInfo=false
 tagEditor_showSaveChangesBox=false
 
 [Phonon::AudioOutput]
-JuK_Volume=1
+JuK_Volume=0.8
 
 [Player]
 CrossfadeTracks=false

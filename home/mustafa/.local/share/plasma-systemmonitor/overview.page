@@ -5,6 +5,9 @@ memory/physical/used=0,59,178
 network/wlp0s20f3/ipv4address=0,59,178
 network/wlp0s20f3/ipv6address=178,119,0
 
+[Face-94410254040128][org.kde.ksysguard.applicationstable][General]
+askWhenKilling=false
+
 [Face-94410261307168][SensorColors]
 disk/all/used=0,59,178
 

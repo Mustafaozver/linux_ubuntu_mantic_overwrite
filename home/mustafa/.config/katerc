@@ -131,8 +131,9 @@ Replace History=\\,
 Search History=\s,) ,at most
 
 [MainWindow]
-1920x1080 screen: Height=998
-1920x1080 screen: Width=945
+1920x1080 screen: Height=1008
+1920x1080 screen: Width=952
+1920x1080 screen: Window-Maximized=true
 2 screens: Height=998
 2 screens: Width=1902
 

@@ -12,13 +12,19 @@
       "contextLength": 2000000,
       "apiKey": "xxxxxxxxx",
       "provider": "gemini"
+    },
+    {
+      "title": "Mistral",
+      "model": "mistral-7b",
+      "provider": "ollama",
+      "apiBase": "http://192.168.1.101:5550/"
     }
   ],
   "tabAutocompleteModel": {
     "title": "Mistral",
     "model": "mistral-7b",
     "provider": "ollama",
-    "apiBase": "http://192.168.1.101:5550/"
+    "apiBase": "http://192.168.1.101:5550/v1/"
   },
   "customCommands": [
     {
