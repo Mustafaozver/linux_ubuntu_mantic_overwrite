@@ -25,14 +25,17 @@
     };
 
 
-    const Setup = ()=>{
-        const path_0 = PATH.join(__dirname);
-        const path_1 = PATH.join("/");
+    const Setup = ()=>{ // backup
+        const path_0 = PATH.join(__dirname); // destination
+        const path_1 = PATH.join("/"); // source
         const path_2 = PATH.join(__dirname, "__");
+
+        const isBackUp = true;
+        const isOverWrite = false;
 
         const list_0 = [path_0];
         const list_1 = [path_1];
-
+        
         let count = 0;
 
         const Compare = async(filepath_0, filepath_1, path_0, path_1)=>{
@@ -44,7 +47,20 @@
                 const hash_0 = GetHash(filepath_0);
                 const hash_1 = GetHash(filepath_1);
                 const isDifferent = hash_0 !== hash_1;
-                //console.log(isDifferent);
+                if(isDifferent){
+                    console.log("HASH DIFFERENT => ", filepath_0);
+                    if(isBackUp){
+                        FS.copyFile(filepath_1, filepath_0, (err)=>{
+                            if (err) return console.log("KOPYALANAMADI !!!");
+                            console.log(filepath_0, " dosya oluşturuldu");
+                        });
+                    }else if(isOverWrite){
+                        FS.copyFile(filepath_0, filepath_1, (err)=>{
+                            if (err) return console.log("KOPYALANAMADI !!!");
+                            console.log(filepath_1, " dosya oluşturuldu");
+                        });
+                    }
+                }
             }else if(isExist_0){
                 FS.copyFile(filepath_0, filepath_1, (err)=>{
                     if(err)return console.log("KOPYALANAMADI !!!");
