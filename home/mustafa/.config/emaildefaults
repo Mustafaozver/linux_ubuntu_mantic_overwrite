@@ -1,0 +1,11 @@
+[Defaults]
+Profile=Öntanımlı
+
+[PROFILE_Öntanımlı]
+EmailAddress=mustafa.ozver@gmail.com
+EmailClient[$e]=thunderbird.desktop
+FullName=Mustafa ÖZVER
+Organization=
+ReplyAddr=
+ServerType=
+TerminalClient=false

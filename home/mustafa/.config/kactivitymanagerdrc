@@ -3,10 +3,12 @@ org.kde.ActivityManager.VirtualDesktopSwitchEnabled=true
 
 [activities]
 40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9=ÖZEL
+4f3999ed-357f-4ea2-a16f-774048d80f2b=DİĞER
 657c557b-ec5d-4072-8686-e64aa3c6245d=İŞ
 
 [activities-icons]
 40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9=user-grace-hopper
+4f3999ed-357f-4ea2-a16f-774048d80f2b=1EF9_d991f95d96e1c76d2acb944bb09447628cd96caa.0
 657c557b-ec5d-4072-8686-e64aa3c6245d=ibus-setup
 
 [main]

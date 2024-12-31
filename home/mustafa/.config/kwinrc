@@ -32,6 +32,9 @@ IndividualMenuConfig=true
 PopupMenus=93
 TornOffMenus=96
 
+[Effect-overview]
+BorderActivate=1
+
 [NightColor]
 Active=true
 LatitudeFixed=39.93
@@ -75,6 +78,9 @@ untileByDragging=false
 active=-1
 count=0
 
+[TabBox]
+OrderMinimizedMode=1
+
 [Tiling]
 padding=4
 
@@ -98,6 +104,11 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Tiling][f7909011-d2c3-5393-9aff-cf1a548fd8c9]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[TouchEdges]
+Bottom=ShowDesktop
+Right=ApplicationLauncher
+Top=LockScreen
 
 [Wayland]
 VirtualKeyboardEnabled=true

@@ -136,16 +136,19 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=1912,1008
-History Items[$e]=file:$HOME/snap/chromium/common/chromium,file:///media/mustafaozver/PROJECTS/0000/Arch,file:///media/mustafaozver/PROJECTS/0000,file:$HOME/Belgeler,file:///home
+DirSelectDialog Size=823,583
+History Items[$e]=file:$HOME/Downloads/deno,file:$HOME/snap/chromium/common/chromium,file:///media/mustafaozver/PROJECTS/0000/Arch,file:///media/mustafaozver/PROJECTS/0000,file:$HOME/Belgeler,file:///home
 
 [General]
 AccentColor=0,85,255
-BrowserApplication=google-chrome.desktop
+BrowserApplication=firefox_firefox.desktop
 ColorSchemeHash=41ac573afe5a38ec0c1992322230e6f0f4ff9017
 LastUsedCustomAccentColor=0,85,255
+TerminalApplication=guake
+TerminalService=guake.desktop
+UseSystemBell=true
 XftAntialias=true
-XftHintStyle=hintslight
+XftHintStyle=hintmedium
 XftSubPixel=rgb
 fixed=Fira Code,12,-1,5,75,0,0,0,0,0,Bold
 font=Noto Sans,10,-1,5,50,0,0,0,0,0
@@ -165,7 +168,7 @@ widgetStyle=kvantum-dark
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5

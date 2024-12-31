@@ -1,0 +1,22 @@
+AutoResume=true
+ConnectTimeout=20
+MarkPartial=true
+MinimumKeepSize=5120
+ProxyConnectTimeout=10
+ProxyUrlDisplayFlags=0
+ReadTimeout=15
+ResponseTimeout=604
+
+[Browser Settings/SMBro]
+Password=0F=0F<0F60F@0F50F;0F@
+User=mustafa
+
+[Proxy Settings]
+NoProxyFor=
+Proxy Config Script=
+ProxyType=3
+ReversedException=false
+ftpProxy=
+httpProxy=
+httpsProxy=
+socksProxy=

@@ -3,12 +3,14 @@ update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminp
 
 [Keyboard]
 NumLock=0
+RepeatDelay=400
 
 [Libinput][1118][2045][Microsoft Microsoft Nano Transceiver 1.1 Consumer Control]
 NaturalScroll=false
+ScrollFactor=4
 
 [Libinput][1739][52856][MSFT0001:01 06CB:CE78 Touchpad]
-PointerAcceleration=0.000
+PointerAcceleration=0.500
 TapToClick=true
 
 [Mouse]

@@ -1,0 +1,7 @@
+[Applications][firefox_firefox]
+Seen=true
+
+[Notifications]
+NormalAlwaysOnTop=true
+PopupPosition=BottomRight
+PopupTimeout=10000

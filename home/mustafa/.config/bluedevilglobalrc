@@ -1,0 +1,8 @@
+[Adapters]
+D4:54:8B:F3:F4:52_powered=true
+
+[Devices]
+connectedDevices=
+
+[Global]
+launchState=disable

@@ -1,0 +1,14 @@
+[Bell]
+ArtsBell=true
+ArtsBellFile=file:///home/mustafa/Music/0/Ajda Pekkan - Yakar Geçerim.mp3
+VisibleBell=true
+
+[Mouse]
+MKCurve=10
+MKDelay=100
+MKInterval=100
+MKMaxSpeed=100
+MKTimeToMax=5
+
+[ScreenReader]
+Enabled=true

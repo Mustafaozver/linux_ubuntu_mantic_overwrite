@@ -1,4 +1,3 @@
-  GNU nano 7.2                                                                /etc/default/grub                                                                         
 GRUB_DEFAULT=saved
 GRUB_SAVEDEFAULT=true
 GRUB_TIMEOUT_STYLE=menu
