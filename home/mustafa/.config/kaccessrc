@@ -1,6 +1,6 @@
 [Bell]
 ArtsBell=true
-ArtsBellFile=file:///home/mustafa/Music/0/Ajda Pekkan - Yakar Geçerim.mp3
+ArtsBellFile=file:///usr/share/sounds/Oxygen-Im-Highlight-Msg.ogg
 VisibleBell=true
 
 [Mouse]

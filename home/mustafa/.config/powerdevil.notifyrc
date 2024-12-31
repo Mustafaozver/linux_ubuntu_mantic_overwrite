@@ -1,38 +1,84 @@
+[Context/criticalnot]
+Comment=Notifies a critical event
+Name=Critical notification
+
+[Context/stdnot]
+Comment=Used for standard notifications
+Name=Notification
+
+[Context/warningnot]
+Comment=Used for warning notifications
+Name=Warning
+
 [Event/criticalbattery]
+Action=Sound|Popup
+Comment=Battery has reached critical level. This notification triggers a countdown before doing the configured action, hence it is strongly advised to leave it on.
+Contexts=warningnot
 Execute=
+IconName=dialog-warning
 Logfile=
-Sound=/usr/share/sounds/freedesktop/stereo/alarm-clock-elapsed.oga
+Name=Battery Critical
+Sound=/usr/share/sounds/Oxygen-Sys-App-Error-Critical.ogg
 TTS=
+Urgency=Critical
 
 [Event/fullbattery]
 Action=Sound|Popup
+Comment=The battery is fully charged
+Contexts=stdnot
 Execute=
+IconName=battery-100
 Logfile=
-Sound=/usr/share/sounds/Oxygen-K3B-Insert-Medium.ogg
+Name=Charge Complete
+Sound=/usr/share/sounds/Oxygen-Sys-App-Positive.ogg
 TTS=
 
 [Event/lowbattery]
+Action=Sound|Popup
+Comment=Battery has reached low level
+Contexts=warningnot
 Execute=
+IconName=battery-caution
 Logfile=
-Sound=/usr/share/sounds/Oxygen-Window-Shade-Up.ogg
+Name=Battery Low
+Sound=/usr/share/sounds/Oxygen-Sys-Warning.ogg
 TTS=
 
 [Event/lowperipheralbattery]
+Action=Sound|Popup
+Comment=The battery in a connected device, such as mouse or keyboard, is low
+Contexts=warningnot
 Execute=
+IconName=battery-caution
 Logfile=
-Sound=/usr/share/sounds/kapman/gameover.ogg
+Name=Peripheral Battery Low
+Sound=/usr/share/sounds/Oxygen-Sys-Warning.ogg
 TTS=
 
 [Event/pluggedin]
 Action=Sound|Popup
+Comment=The power source has been connected
+Contexts=stdnot
 Execute=
+IconName=battery-charging-low
 Logfile=
-Sound=/usr/share/sounds/Oxygen-Im-New-Mail.ogg
-TTS=%e
+Name=Power source connected
+Sound=/usr/share/sounds/Oxygen-Sys-App-Positive.ogg
+TTS=
 
 [Event/unplugged]
 Action=Sound|Popup
+Comment=The power source has been disconnected
+Contexts=stdnot
 Execute=
+IconName=battery-low
 Logfile=
-Sound=/usr/share/sounds/Oxygen-Window-All-Desktops.ogg
+Name=Power source disconnected
+Sound=/usr/share/sounds/Oxygen-Sys-App-Negative.ogg
 TTS=
+
+[Global]
+Comment=Power Management System
+IconName=preferences-system-power-management
+Name=Power Management
+Version=2
