@@ -26,8 +26,8 @@
 
 
     const Setup = ()=>{ // backup
-        const path_0 = PATH.join(__dirname); // destination
-        const path_1 = PATH.join("/"); // source
+        const path_0 = PATH.join(__dirname, "./home/mustafa/"); // destination
+        const path_1 = PATH.join("/home/mustafa/"); // source
         const path_2 = PATH.join(__dirname, "__");
 
         const isBackUp = true;
@@ -110,15 +110,27 @@
             return true;
         };
 
-        setInterval(()=>{
-            SearchOrder(count);
-            if(count >= list_0.length){
-                console.log("BYE BYE");
-                process.exit(0);
-                return false;
-            }
-            count++;
-        },10);
+        setTimeout(()=>{
+            
+            setInterval(()=>{
+                SearchOrder(count);
+                if(count >= list_0.length){
+                    console.log("BYE BYE");
+                    process.exit(0);
+                    return false;
+                }
+                count++;
+            },10);
+            
+        }, 5000);
+        
+        console.log({
+            D: path_0,
+            S: path_1,
+            isBackUp,
+            isOverWrite,
+            path_2,
+        });
     };
 
     setTimeout(()=>{

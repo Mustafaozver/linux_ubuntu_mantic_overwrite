@@ -1,7 +1,8 @@
 [PlasmaRunnerManager]
-LaunchCounts=1 exec:///snap/bin/firefox,2 exec:///snap/bin/obsidian,1 exec:///usr/bin/systemsettings
+LaunchCounts=1 exec:///usr/bin/systemsettings,1 file:///home/mustafa/.config/kdeconnect,4 exec:///usr/bin/opera,1 krunner_systemsettings_kcm_kdeconnect,5 exec:///snap/bin/obsidian,3 exec:///usr/bin/google-chrome-stable,9 exec:///snap/bin/firefox
 migrated=true
 
 [PlasmaRunnerManager][History]
-40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9=obsidian,firefox,disk,dolphin,sistem,chrome,code,juk,sync,kate,renkli boya
-657c557b-ec5d-4072-8686-e64aa3c6245d=obsidian,firefox,disk,dolphin,sistem,chrome,code,juk,sync,kate,renkli boya
+40cda2a6-de12-4d4a-abe1-8fc2fc1d62e9=firefox,oper,obsidian,disk,dolphin,sistem,chrome,code,juk,sync,kate,renkli boya
+4f3999ed-357f-4ea2-a16f-774048d80f2b=op,obsidi,connect,kdeconnect,fire
+657c557b-ec5d-4072-8686-e64aa3c6245d=firefox,chrome,obsidian,disk,dolphin,sistem,code,juk,sync,kate,renkli boya

@@ -2,7 +2,7 @@
 icon=battery-charging
 
 [AC][BrightnessControl]
-value=100
+value=80
 
 [AC][DPMSControl]
 idleTime=1800

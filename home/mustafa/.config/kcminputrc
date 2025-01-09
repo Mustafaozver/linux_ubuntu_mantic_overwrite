@@ -10,6 +10,7 @@ NaturalScroll=false
 ScrollFactor=4
 
 [Libinput][1739][52856][MSFT0001:01 06CB:CE78 Touchpad]
+Enabled=true
 PointerAcceleration=0.500
 TapToClick=true
 

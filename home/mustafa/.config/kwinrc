@@ -18,13 +18,12 @@ Number=6
 Rows=2
 
 [Effect-blur]
-BlurStrength=5
+BlurStrength=2
 NoiseStrength=0
 
 [Effect-diminactive]
 DimDesktop=true
 DimKeepAbove=true
-Strength=10
 
 [Effect-kwin4_effect_translucency]
 DropdownMenus=93
@@ -32,8 +31,17 @@ IndividualMenuConfig=true
 PopupMenus=93
 TornOffMenus=96
 
+[Effect-magiclamp]
+AnimationDuration=150
+
 [Effect-overview]
 BorderActivate=1
+
+[Effect-windowview]
+TouchBorderActivate=6
+
+[Input]
+TabletMode=on
 
 [NightColor]
 Active=true
@@ -45,11 +53,9 @@ NightTemperature=4000
 [Plugins]
 bismuthEnabled=true
 blurEnabled=true
+diminactiveEnabled=true
 focusonattentionrequestEnabled=true
 kwin4_effect_dimscreenEnabled=true
-kwin4_effect_frozenappEnabled=false
-kwin4_effect_loginEnabled=false
-kwin4_effect_logoutEnabled=false
 kwin4_effect_squashEnabled=false
 kwin4_effect_translucencyEnabled=true
 magiclampEnabled=true
@@ -114,6 +120,7 @@ Top=LockScreen
 VirtualKeyboardEnabled=true
 
 [Windows]
+CenterSnapZone=4
 SnapOnlyWhenOverlapping=true
 
 [Xwayland]
