@@ -40,9 +40,6 @@ BorderActivate=1
 [Effect-windowview]
 TouchBorderActivate=6
 
-[Input]
-TabletMode=on
-
 [NightColor]
 Active=true
 LatitudeFixed=39.93
